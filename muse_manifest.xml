@@ -1,19 +1,19 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="joron.com" resolutions="1x" timestamp="1752678871922">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="joron.com" resolutions="1x" timestamp="1752680669536">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="minecraft.css" crc="489187775" ref="minecraft"/>
-    <file name="information.css" crc="4048412035" ref="information"/>
-    <file name="downloads.css" crc="76323136" ref="downloads"/>
-    <file name="dungeons.css" crc="59412486" ref="dungeons"/>
-    <file name="legends.css" crc="198411764" ref="legends"/>
-    <file name="dungeons-ultimate.css" crc="181202876" ref="dungeons-ultimate"/>
-    <file name="ancient-launcher.css" crc="4235557251" ref="ancient-launcher"/>
-    <file name="legends-ultimate.css" crc="116763661" ref="legends-ultimate"/>
+    <file name="ancient-launcher.css" crc="4157911393" ref="ancient-launcher"/>
+    <file name="dungeons-ultimate.css" crc="448893322" ref="dungeons-ultimate"/>
     <file name="index.css" crc="37844552" ref="index"/>
-    <file name="triple-bundle.css" crc="451687113" ref="triple-bundle"/>
-    <file name="buy-failed.css" crc="3860143232" ref="buy-failed"/>
-    <file name="buy-minecraft.css" crc="279896112" ref="buy-minecraft"/>
-    <file name="about-project.css" crc="3832175290" ref="about-project"/>
+    <file name="legends.css" crc="23999311" ref="legends"/>
+    <file name="information.css" crc="385313487" ref="information"/>
+    <file name="dungeons.css" crc="3903455070" ref="dungeons"/>
+    <file name="downloads.css" crc="64051769" ref="downloads"/>
+    <file name="minecraft.css" crc="4022857964" ref="minecraft"/>
+    <file name="buy-failed.css" crc="3943370002" ref="buy-failed"/>
+    <file name="buy-minecraft.css" crc="4217252409" ref="buy-minecraft"/>
+    <file name="triple-bundle.css" crc="4061494713" ref="triple-bundle"/>
+    <file name="about-project.css" crc="270174999" ref="about-project"/>
+    <file name="legends-ultimate.css" crc="3868981370" ref="legends-ultimate"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:ancient-launcher:downloads:information:about-project:buy-minecraft:minecraft:dungeons:legends:dungeons-ultimate:legends-ultimate:triple-bundle:buy-failed"/>
@@ -30,69 +30,69 @@
   </folder>
   <folder name="images">
     <file name="stone2.jpg" crc="4035481180" ref="ancient-launcher:downloads:information:about-project:buy-minecraft:minecraft:dungeons:legends:dungeons-ultimate:legends-ultimate:triple-bundle:buy-failed">
-      <caption webpage="buy-failed" alt=""/>
-      <caption webpage="downloads" alt=""/>
-      <caption webpage="downloads" alt=""/>
-      <caption webpage="downloads" alt=""/>
-      <caption webpage="downloads" alt=""/>
-      <caption webpage="triple-bundle" alt=""/>
-      <caption webpage="triple-bundle" alt=""/>
+      <caption webpage="information" alt=""/>
+      <caption webpage="information" alt=""/>
+      <caption webpage="information" alt=""/>
+      <caption webpage="information" alt=""/>
+      <caption webpage="information" alt=""/>
+      <caption webpage="information" alt=""/>
+      <caption webpage="information" alt=""/>
+      <caption webpage="information" alt=""/>
+      <caption webpage="dungeons" alt=""/>
+      <caption webpage="dungeons" alt=""/>
       <caption webpage="legends-ultimate" alt=""/>
       <caption webpage="legends-ultimate" alt=""/>
-      <caption webpage="about-project" alt=""/>
-      <caption webpage="about-project" alt=""/>
-      <caption webpage="about-project" alt=""/>
-      <caption webpage="about-project" alt=""/>
-      <caption webpage="about-project" alt=""/>
       <caption webpage="buy-minecraft" alt=""/>
-      <caption webpage="minecraft" alt=""/>
-      <caption webpage="minecraft" alt=""/>
-      <caption webpage="legends" alt=""/>
-      <caption webpage="legends" alt=""/>
-      <caption webpage="dungeons" alt=""/>
-      <caption webpage="dungeons" alt=""/>
-      <caption webpage="ancient-launcher" alt=""/>
-      <caption webpage="ancient-launcher" alt=""/>
-      <caption webpage="ancient-launcher" alt=""/>
-      <caption webpage="ancient-launcher" alt=""/>
-      <caption webpage="ancient-launcher" alt=""/>
-      <caption webpage="ancient-launcher" alt=""/>
-      <caption webpage="information" alt=""/>
-      <caption webpage="information" alt=""/>
-      <caption webpage="information" alt=""/>
-      <caption webpage="information" alt=""/>
-      <caption webpage="information" alt=""/>
-      <caption webpage="information" alt=""/>
-      <caption webpage="information" alt=""/>
-      <caption webpage="information" alt=""/>
       <caption webpage="dungeons-ultimate" alt=""/>
       <caption webpage="dungeons-ultimate" alt=""/>
+      <caption webpage="triple-bundle" alt=""/>
+      <caption webpage="triple-bundle" alt=""/>
+      <caption webpage="ancient-launcher" alt=""/>
+      <caption webpage="ancient-launcher" alt=""/>
+      <caption webpage="ancient-launcher" alt=""/>
+      <caption webpage="ancient-launcher" alt=""/>
+      <caption webpage="ancient-launcher" alt=""/>
+      <caption webpage="ancient-launcher" alt=""/>
+      <caption webpage="legends" alt=""/>
+      <caption webpage="legends" alt=""/>
+      <caption webpage="downloads" alt=""/>
+      <caption webpage="downloads" alt=""/>
+      <caption webpage="downloads" alt=""/>
+      <caption webpage="downloads" alt=""/>
+      <caption webpage="about-project" alt=""/>
+      <caption webpage="about-project" alt=""/>
+      <caption webpage="about-project" alt=""/>
+      <caption webpage="about-project" alt=""/>
+      <caption webpage="about-project" alt=""/>
+      <caption webpage="minecraft" alt=""/>
+      <caption webpage="minecraft" alt=""/>
+      <caption webpage="buy-failed" alt=""/>
     </file>
     <file name="stone.jpg" crc="483276194" ref="ancient-launcher:downloads:information:about-project:buy-minecraft:minecraft:dungeons:legends:dungeons-ultimate:legends-ultimate:triple-bundle:buy-failed">
-      <caption webpage="buy-failed" alt=""/>
-      <caption webpage="downloads" alt=""/>
-      <caption webpage="downloads" alt=""/>
-      <caption webpage="triple-bundle" alt=""/>
-      <caption webpage="triple-bundle" alt=""/>
+      <caption webpage="information" alt=""/>
+      <caption webpage="information" alt=""/>
+      <caption webpage="dungeons" alt=""/>
+      <caption webpage="dungeons" alt=""/>
       <caption webpage="legends-ultimate" alt=""/>
       <caption webpage="legends-ultimate" alt=""/>
-      <caption webpage="about-project" alt=""/>
-      <caption webpage="about-project" alt=""/>
       <caption webpage="buy-minecraft" alt=""/>
-      <caption webpage="minecraft" alt=""/>
-      <caption webpage="minecraft" alt=""/>
-      <caption webpage="legends" alt=""/>
-      <caption webpage="legends" alt=""/>
-      <caption webpage="dungeons" alt=""/>
-      <caption webpage="dungeons" alt=""/>
-      <caption webpage="ancient-launcher" alt=""/>
-      <caption webpage="ancient-launcher" alt=""/>
-      <caption webpage="ancient-launcher" alt=""/>
-      <caption webpage="ancient-launcher" alt=""/>
-      <caption webpage="information" alt=""/>
-      <caption webpage="information" alt=""/>
       <caption webpage="dungeons-ultimate" alt=""/>
       <caption webpage="dungeons-ultimate" alt=""/>
+      <caption webpage="triple-bundle" alt=""/>
+      <caption webpage="triple-bundle" alt=""/>
+      <caption webpage="ancient-launcher" alt=""/>
+      <caption webpage="ancient-launcher" alt=""/>
+      <caption webpage="ancient-launcher" alt=""/>
+      <caption webpage="ancient-launcher" alt=""/>
+      <caption webpage="legends" alt=""/>
+      <caption webpage="legends" alt=""/>
+      <caption webpage="downloads" alt=""/>
+      <caption webpage="downloads" alt=""/>
+      <caption webpage="about-project" alt=""/>
+      <caption webpage="about-project" alt=""/>
+      <caption webpage="minecraft" alt=""/>
+      <caption webpage="minecraft" alt=""/>
+      <caption webpage="buy-failed" alt=""/>
     </file>
     <file name="logo-u149-a.png" crc="3976578939" ref="ancient-launcher"/>
     <file name="screenshot01.jpg" crc="43555448" seo="true" ref="ancient-launcher">
@@ -112,51 +112,51 @@
     <file name="u387-4.png" crc="44532636" ref="ancient-launcher"/>
     <file name="loading.gif" crc="3815509949" ref="ancient-launcher:minecraft:dungeons:legends:dungeons-ultimate:legends-ultimate:triple-bundle"/>
     <file name="discord.png" crc="3925640901" ref="ancient-launcher:downloads:information:about-project:buy-failed">
-      <caption webpage="buy-failed" alt=""/>
-      <caption webpage="downloads" alt=""/>
       <caption webpage="ancient-launcher" alt=""/>
       <caption webpage="information" alt=""/>
+      <caption webpage="downloads" alt=""/>
       <caption webpage="about-project" alt=""/>
+      <caption webpage="buy-failed" alt=""/>
     </file>
     <file name="patreon.jpg" crc="3981376549" ref="ancient-launcher:downloads:information:about-project:buy-failed">
-      <caption webpage="buy-failed" alt=""/>
-      <caption webpage="downloads" alt=""/>
       <caption webpage="ancient-launcher" alt=""/>
       <caption webpage="information" alt=""/>
+      <caption webpage="downloads" alt=""/>
       <caption webpage="about-project" alt=""/>
+      <caption webpage="buy-failed" alt=""/>
     </file>
     <file name="steam.png" crc="51002536" ref="ancient-launcher:downloads:information:about-project:buy-failed">
-      <caption webpage="buy-failed" alt=""/>
-      <caption webpage="downloads" alt=""/>
       <caption webpage="ancient-launcher" alt=""/>
       <caption webpage="information" alt=""/>
+      <caption webpage="downloads" alt=""/>
       <caption webpage="about-project" alt=""/>
+      <caption webpage="buy-failed" alt=""/>
     </file>
     <file name="curseforge.jpg" crc="3874056928" ref="ancient-launcher:downloads:information:about-project:buy-failed">
-      <caption webpage="buy-failed" alt=""/>
-      <caption webpage="downloads" alt=""/>
       <caption webpage="ancient-launcher" alt=""/>
       <caption webpage="information" alt=""/>
+      <caption webpage="downloads" alt=""/>
       <caption webpage="about-project" alt=""/>
+      <caption webpage="buy-failed" alt=""/>
     </file>
     <file name="dirt.jpg" crc="329450632" ref="ancient-launcher:downloads:information:about-project:buy-failed">
-      <caption webpage="buy-failed" alt=""/>
-      <caption webpage="downloads" alt=""/>
       <caption webpage="ancient-launcher" alt=""/>
       <caption webpage="information" alt=""/>
+      <caption webpage="downloads" alt=""/>
       <caption webpage="about-project" alt=""/>
+      <caption webpage="buy-failed" alt=""/>
     </file>
     <file name="logo-u1142.png" crc="3976578939" ref="downloads"/>
     <file name="logo-u1145.png" crc="3976578939" ref="information"/>
     <file name="logo-u1148.png" crc="3976578939" ref="about-project"/>
     <file name="dirt1.jpg" crc="3984302233" ref="buy-minecraft:minecraft:dungeons:legends:dungeons-ultimate:legends-ultimate:triple-bundle">
-      <caption webpage="legends-ultimate" alt=""/>
-      <caption webpage="buy-minecraft" alt=""/>
-      <caption webpage="minecraft" alt=""/>
-      <caption webpage="legends" alt=""/>
-      <caption webpage="dungeons" alt=""/>
-      <caption webpage="triple-bundle" alt=""/>
       <caption webpage="dungeons-ultimate" alt=""/>
+      <caption webpage="dungeons" alt=""/>
+      <caption webpage="buy-minecraft" alt=""/>
+      <caption webpage="triple-bundle" alt=""/>
+      <caption webpage="legends" alt=""/>
+      <caption webpage="legends-ultimate" alt=""/>
+      <caption webpage="minecraft" alt=""/>
     </file>
     <file name="logo-u1364.png" crc="5700724" ref="buy-minecraft"/>
     <file name="legends1.png" crc="74649940" ref="buy-minecraft">
@@ -237,8 +237,8 @@
     <file name="all1-u1845.png" crc="4111154416" ref="dungeons"/>
     <file name="all2-u1845-r.png" crc="279561174" ref="dungeons"/>
     <file name="bg_dungeons.jpg" crc="4068481424" ref="dungeons:dungeons-ultimate">
-      <caption webpage="dungeons" alt=""/>
       <caption webpage="dungeons-ultimate" alt=""/>
+      <caption webpage="dungeons" alt=""/>
     </file>
     <file name="logo-u2031.png" crc="5700724" ref="legends"/>
     <file name="legends1-crop-u2010.png" crc="486899493" seo="true" ref="legends">
@@ -370,16 +370,16 @@
     <file name="u2957_states-r.png" crc="3790464912" ref="buy-failed"/>
   </folder>
   <file name="index.html" crc="33671948" seo="true" mt="1752659659938" redirect="false"/>
-  <file name="ancient-launcher.html" crc="391221938" seo="true" mt="1752678721284" redirect="true"/>
-  <file name="downloads.html" crc="3942801335" seo="true" mt="1752678821690" redirect="true"/>
-  <file name="information.html" crc="4183747989" seo="true" mt="1752668490713" redirect="true"/>
-  <file name="about-project.html" crc="3787914770" seo="true" mt="1752668493948" redirect="true"/>
-  <file name="buy-minecraft.html" crc="3799585695" seo="true" mt="1752663769785" redirect="true"/>
-  <file name="minecraft.html" crc="4287948452" seo="true" mt="1752659137013" redirect="true"/>
-  <file name="dungeons.html" crc="4110302198" seo="true" mt="1752659125075" redirect="true"/>
-  <file name="legends.html" crc="4075652186" seo="true" mt="1752659114876" redirect="true"/>
-  <file name="dungeons-ultimate.html" crc="3858609847" seo="true" mt="1752659096336" redirect="true"/>
-  <file name="legends-ultimate.html" crc="403458216" seo="true" mt="1752659083129" redirect="true"/>
-  <file name="triple-bundle.html" crc="4122136865" seo="true" mt="1752664088362" redirect="true"/>
-  <file name="buy-failed.html" crc="3919496759" seo="true" mt="1752660182691" redirect="true"/>
+  <file name="ancient-launcher.html" crc="3830226948" seo="true" mt="1752678721284" redirect="true"/>
+  <file name="downloads.html" crc="4004157419" seo="true" mt="1752680647074" redirect="true"/>
+  <file name="information.html" crc="42093222" seo="true" mt="1752668490713" redirect="true"/>
+  <file name="about-project.html" crc="3983671936" seo="true" mt="1752668493948" redirect="true"/>
+  <file name="buy-minecraft.html" crc="449378129" seo="true" mt="1752663769785" redirect="true"/>
+  <file name="minecraft.html" crc="110906923" seo="true" mt="1752659137013" redirect="true"/>
+  <file name="dungeons.html" crc="491628018" seo="true" mt="1752659125075" redirect="true"/>
+  <file name="legends.html" crc="4173674253" seo="true" mt="1752659114876" redirect="true"/>
+  <file name="dungeons-ultimate.html" crc="4141036781" seo="true" mt="1752659096336" redirect="true"/>
+  <file name="legends-ultimate.html" crc="360735933" seo="true" mt="1752659083129" redirect="true"/>
+  <file name="triple-bundle.html" crc="97972365" seo="true" mt="1752664088362" redirect="true"/>
+  <file name="buy-failed.html" crc="273253191" seo="true" mt="1752660182691" redirect="true"/>
 </manifest>
