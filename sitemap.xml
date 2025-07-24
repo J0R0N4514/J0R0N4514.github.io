@@ -228,4 +228,43 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
+  <url>
+    <loc>http://joron.com/shellmessage.html</loc>
+    <lastmod>2025-07-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://joron.com/images/anonimous-crop-u3235.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://joron.com/images/easy-crop-u3315.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://joron.com/images/free-crop-u3335.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://joron.com/images/no_register-crop-u3355.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://joron.com/images/notrash-crop-u3375.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://joron.com/images/only_client-crop-u3395.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://joron.com/images/secured-crop-u3415.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://joron.com/shellmessage-%D0%B4%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D1%8F.html</loc>
+    <lastmod>2025-07-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://joron.com/%D0%BD%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D0%B8-%D0%B8-%D0%BE%D0%B1%D0%BD%D0%BE%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F-shellmessage.html</loc>
+    <lastmod>2025-07-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
 </urlset>

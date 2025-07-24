@@ -1,60 +1,40 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="joron.com" resolutions="1x" timestamp="1752680669536">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="joron.com" resolutions="1x" timestamp="1753352269987">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="ancient-launcher.css" crc="4157911393" ref="ancient-launcher"/>
-    <file name="dungeons-ultimate.css" crc="448893322" ref="dungeons-ultimate"/>
     <file name="index.css" crc="37844552" ref="index"/>
-    <file name="legends.css" crc="23999311" ref="legends"/>
-    <file name="information.css" crc="385313487" ref="information"/>
-    <file name="dungeons.css" crc="3903455070" ref="dungeons"/>
-    <file name="downloads.css" crc="64051769" ref="downloads"/>
-    <file name="minecraft.css" crc="4022857964" ref="minecraft"/>
-    <file name="buy-failed.css" crc="3943370002" ref="buy-failed"/>
-    <file name="buy-minecraft.css" crc="4217252409" ref="buy-minecraft"/>
-    <file name="triple-bundle.css" crc="4061494713" ref="triple-bundle"/>
-    <file name="about-project.css" crc="270174999" ref="about-project"/>
-    <file name="legends-ultimate.css" crc="3868981370" ref="legends-ultimate"/>
+    <file name="buy-minecraft.css" crc="42007350" ref="buy-minecraft"/>
+    <file name="triple-bundle.css" crc="362654762" ref="triple-bundle"/>
+    <file name="buy-failed.css" crc="4157436580" ref="buy-failed"/>
+    <file name="shellmessage-____________.css" crc="3790149673" ref="shellmessage-документация"/>
+    <file name="dungeons-ultimate.css" crc="3941882803" ref="dungeons-ultimate"/>
+    <file name="_______-_-__________-shellmessage.css" crc="438896895" ref="новости-и-обновления-shellmessage"/>
+    <file name="ancient-launcher.css" crc="413575459" ref="ancient-launcher"/>
+    <file name="legends-ultimate.css" crc="3777309584" ref="legends-ultimate"/>
+    <file name="minecraft.css" crc="112400264" ref="minecraft"/>
+    <file name="about-project.css" crc="4000002563" ref="about-project"/>
+    <file name="dungeons.css" crc="4268512858" ref="dungeons"/>
+    <file name="information.css" crc="345405440" ref="information"/>
+    <file name="shellmessage.css" crc="4275044856" ref="shellmessage"/>
+    <file name="legends.css" crc="268854206" ref="legends"/>
+    <file name="downloads.css" crc="25710566" ref="downloads"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:ancient-launcher:downloads:information:about-project:buy-minecraft:minecraft:dungeons:legends:dungeons-ultimate:legends-ultimate:triple-bundle:buy-failed"/>
-    <file name="museutils.js" crc="3939489907" ref="index:ancient-launcher:downloads:information:about-project:buy-minecraft:minecraft:dungeons:legends:dungeons-ultimate:legends-ultimate:triple-bundle:buy-failed"/>
-    <file name="whatinput.js" crc="86476730" ref="index:ancient-launcher:downloads:information:about-project:buy-minecraft:minecraft:dungeons:legends:dungeons-ultimate:legends-ultimate:triple-bundle:buy-failed"/>
-    <file name="museconfig.js" crc="3936894949" ref="index:ancient-launcher:downloads:information:about-project:buy-minecraft:minecraft:dungeons:legends:dungeons-ultimate:legends-ultimate:triple-bundle:buy-failed"/>
-    <file name="jquery.watch.js" crc="522499760" ref="index:ancient-launcher:downloads:information:about-project:buy-minecraft:minecraft:dungeons:legends:dungeons-ultimate:legends-ultimate:triple-bundle:buy-failed"/>
-    <file name="require.js" crc="4177726516" ref="index:ancient-launcher:downloads:information:about-project:buy-minecraft:minecraft:dungeons:legends:dungeons-ultimate:legends-ultimate:triple-bundle:buy-failed"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="85124417" ref="ancient-launcher:downloads:information:about-project:buy-minecraft:minecraft:dungeons:legends:dungeons-ultimate:legends-ultimate:triple-bundle:buy-failed"/>
-    <file name="webpro.js" crc="3856315280" ref="ancient-launcher:minecraft:dungeons:legends:dungeons-ultimate:legends-ultimate:triple-bundle"/>
-    <file name="musewpslideshow.js" crc="244150766" ref="ancient-launcher:minecraft:dungeons:legends:dungeons-ultimate:legends-ultimate:triple-bundle"/>
-    <file name="jquery.museoverlay.js" crc="3877667098" ref="ancient-launcher:minecraft:dungeons:legends:dungeons-ultimate:legends-ultimate:triple-bundle"/>
-    <file name="touchswipe.js" crc="3888935200" ref="ancient-launcher:minecraft:dungeons:legends:dungeons-ultimate:legends-ultimate:triple-bundle"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:ancient-launcher:downloads:information:about-project:buy-minecraft:minecraft:dungeons:legends:dungeons-ultimate:legends-ultimate:triple-bundle:buy-failed:shellmessage:shellmessage-документация:новости-и-обновления-shellmessage"/>
+    <file name="museutils.js" crc="3939489907" ref="index:ancient-launcher:downloads:information:about-project:buy-minecraft:minecraft:dungeons:legends:dungeons-ultimate:legends-ultimate:triple-bundle:buy-failed:shellmessage:shellmessage-документация:новости-и-обновления-shellmessage"/>
+    <file name="whatinput.js" crc="86476730" ref="index:ancient-launcher:downloads:information:about-project:buy-minecraft:minecraft:dungeons:legends:dungeons-ultimate:legends-ultimate:triple-bundle:buy-failed:shellmessage:shellmessage-документация:новости-и-обновления-shellmessage"/>
+    <file name="museconfig.js" crc="3936894949" ref="index:ancient-launcher:downloads:information:about-project:buy-minecraft:minecraft:dungeons:legends:dungeons-ultimate:legends-ultimate:triple-bundle:buy-failed:shellmessage:shellmessage-документация:новости-и-обновления-shellmessage"/>
+    <file name="jquery.watch.js" crc="522499760" ref="index:ancient-launcher:downloads:information:about-project:buy-minecraft:minecraft:dungeons:legends:dungeons-ultimate:legends-ultimate:triple-bundle:buy-failed:shellmessage:shellmessage-документация:новости-и-обновления-shellmessage"/>
+    <file name="require.js" crc="4177726516" ref="index:ancient-launcher:downloads:information:about-project:buy-minecraft:minecraft:dungeons:legends:dungeons-ultimate:legends-ultimate:triple-bundle:buy-failed:shellmessage:shellmessage-документация:новости-и-обновления-shellmessage"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="85124417" ref="ancient-launcher:downloads:information:about-project:buy-minecraft:minecraft:dungeons:legends:dungeons-ultimate:legends-ultimate:triple-bundle:buy-failed:shellmessage:shellmessage-документация:новости-и-обновления-shellmessage"/>
+    <file name="webpro.js" crc="3856315280" ref="ancient-launcher:minecraft:dungeons:legends:dungeons-ultimate:legends-ultimate:triple-bundle:shellmessage"/>
+    <file name="musewpslideshow.js" crc="244150766" ref="ancient-launcher:minecraft:dungeons:legends:dungeons-ultimate:legends-ultimate:triple-bundle:shellmessage"/>
+    <file name="jquery.museoverlay.js" crc="3877667098" ref="ancient-launcher:minecraft:dungeons:legends:dungeons-ultimate:legends-ultimate:triple-bundle:shellmessage"/>
+    <file name="touchswipe.js" crc="3888935200" ref="ancient-launcher:minecraft:dungeons:legends:dungeons-ultimate:legends-ultimate:triple-bundle:shellmessage"/>
   </folder>
   <folder name="images">
     <file name="stone2.jpg" crc="4035481180" ref="ancient-launcher:downloads:information:about-project:buy-minecraft:minecraft:dungeons:legends:dungeons-ultimate:legends-ultimate:triple-bundle:buy-failed">
-      <caption webpage="information" alt=""/>
-      <caption webpage="information" alt=""/>
-      <caption webpage="information" alt=""/>
-      <caption webpage="information" alt=""/>
-      <caption webpage="information" alt=""/>
-      <caption webpage="information" alt=""/>
-      <caption webpage="information" alt=""/>
-      <caption webpage="information" alt=""/>
-      <caption webpage="dungeons" alt=""/>
-      <caption webpage="dungeons" alt=""/>
-      <caption webpage="legends-ultimate" alt=""/>
-      <caption webpage="legends-ultimate" alt=""/>
-      <caption webpage="buy-minecraft" alt=""/>
-      <caption webpage="dungeons-ultimate" alt=""/>
-      <caption webpage="dungeons-ultimate" alt=""/>
       <caption webpage="triple-bundle" alt=""/>
       <caption webpage="triple-bundle" alt=""/>
-      <caption webpage="ancient-launcher" alt=""/>
-      <caption webpage="ancient-launcher" alt=""/>
-      <caption webpage="ancient-launcher" alt=""/>
-      <caption webpage="ancient-launcher" alt=""/>
-      <caption webpage="ancient-launcher" alt=""/>
-      <caption webpage="ancient-launcher" alt=""/>
-      <caption webpage="legends" alt=""/>
-      <caption webpage="legends" alt=""/>
       <caption webpage="downloads" alt=""/>
       <caption webpage="downloads" alt=""/>
       <caption webpage="downloads" alt=""/>
@@ -66,33 +46,56 @@
       <caption webpage="about-project" alt=""/>
       <caption webpage="minecraft" alt=""/>
       <caption webpage="minecraft" alt=""/>
+      <caption webpage="legends-ultimate" alt=""/>
+      <caption webpage="legends-ultimate" alt=""/>
       <caption webpage="buy-failed" alt=""/>
+      <caption webpage="information" alt=""/>
+      <caption webpage="information" alt=""/>
+      <caption webpage="information" alt=""/>
+      <caption webpage="information" alt=""/>
+      <caption webpage="information" alt=""/>
+      <caption webpage="information" alt=""/>
+      <caption webpage="information" alt=""/>
+      <caption webpage="information" alt=""/>
+      <caption webpage="dungeons" alt=""/>
+      <caption webpage="dungeons" alt=""/>
+      <caption webpage="dungeons-ultimate" alt=""/>
+      <caption webpage="dungeons-ultimate" alt=""/>
+      <caption webpage="buy-minecraft" alt=""/>
+      <caption webpage="legends" alt=""/>
+      <caption webpage="legends" alt=""/>
+      <caption webpage="ancient-launcher" alt=""/>
+      <caption webpage="ancient-launcher" alt=""/>
+      <caption webpage="ancient-launcher" alt=""/>
+      <caption webpage="ancient-launcher" alt=""/>
+      <caption webpage="ancient-launcher" alt=""/>
+      <caption webpage="ancient-launcher" alt=""/>
     </file>
     <file name="stone.jpg" crc="483276194" ref="ancient-launcher:downloads:information:about-project:buy-minecraft:minecraft:dungeons:legends:dungeons-ultimate:legends-ultimate:triple-bundle:buy-failed">
-      <caption webpage="information" alt=""/>
-      <caption webpage="information" alt=""/>
-      <caption webpage="dungeons" alt=""/>
-      <caption webpage="dungeons" alt=""/>
-      <caption webpage="legends-ultimate" alt=""/>
-      <caption webpage="legends-ultimate" alt=""/>
-      <caption webpage="buy-minecraft" alt=""/>
-      <caption webpage="dungeons-ultimate" alt=""/>
-      <caption webpage="dungeons-ultimate" alt=""/>
       <caption webpage="triple-bundle" alt=""/>
       <caption webpage="triple-bundle" alt=""/>
-      <caption webpage="ancient-launcher" alt=""/>
-      <caption webpage="ancient-launcher" alt=""/>
-      <caption webpage="ancient-launcher" alt=""/>
-      <caption webpage="ancient-launcher" alt=""/>
-      <caption webpage="legends" alt=""/>
-      <caption webpage="legends" alt=""/>
       <caption webpage="downloads" alt=""/>
       <caption webpage="downloads" alt=""/>
       <caption webpage="about-project" alt=""/>
       <caption webpage="about-project" alt=""/>
       <caption webpage="minecraft" alt=""/>
       <caption webpage="minecraft" alt=""/>
+      <caption webpage="legends-ultimate" alt=""/>
+      <caption webpage="legends-ultimate" alt=""/>
       <caption webpage="buy-failed" alt=""/>
+      <caption webpage="information" alt=""/>
+      <caption webpage="information" alt=""/>
+      <caption webpage="dungeons" alt=""/>
+      <caption webpage="dungeons" alt=""/>
+      <caption webpage="dungeons-ultimate" alt=""/>
+      <caption webpage="dungeons-ultimate" alt=""/>
+      <caption webpage="buy-minecraft" alt=""/>
+      <caption webpage="legends" alt=""/>
+      <caption webpage="legends" alt=""/>
+      <caption webpage="ancient-launcher" alt=""/>
+      <caption webpage="ancient-launcher" alt=""/>
+      <caption webpage="ancient-launcher" alt=""/>
+      <caption webpage="ancient-launcher" alt=""/>
     </file>
     <file name="logo-u149-a.png" crc="3976578939" ref="ancient-launcher"/>
     <file name="screenshot01.jpg" crc="43555448" seo="true" ref="ancient-launcher">
@@ -100,7 +103,7 @@
       <caption webpage="ancient-launcher" alt=""/>
     </file>
     <file name="steve-u251-fr.png" crc="301970219" ref="ancient-launcher"/>
-    <file name="blank.gif" crc="4208392903" ref="ancient-launcher:minecraft:dungeons:legends:dungeons-ultimate:legends-ultimate:triple-bundle:buy-failed"/>
+    <file name="blank.gif" crc="4208392903" ref="ancient-launcher:minecraft:dungeons:legends:dungeons-ultimate:legends-ultimate:triple-bundle:buy-failed:shellmessage"/>
     <file name="u262_states.png" crc="435691092" ref="ancient-launcher"/>
     <file name="u262_states-r.png" crc="4203148467" ref="ancient-launcher"/>
     <file name="u379-4.png" crc="4037292945" ref="ancient-launcher"/>
@@ -110,52 +113,64 @@
     </file>
     <file name="u374-4.png" crc="3871574171" ref="ancient-launcher"/>
     <file name="u387-4.png" crc="44532636" ref="ancient-launcher"/>
-    <file name="loading.gif" crc="3815509949" ref="ancient-launcher:minecraft:dungeons:legends:dungeons-ultimate:legends-ultimate:triple-bundle"/>
-    <file name="discord.png" crc="3925640901" ref="ancient-launcher:downloads:information:about-project:buy-failed">
-      <caption webpage="ancient-launcher" alt=""/>
-      <caption webpage="information" alt=""/>
+    <file name="loading.gif" crc="3815509949" ref="ancient-launcher:minecraft:dungeons:legends:dungeons-ultimate:legends-ultimate:triple-bundle:shellmessage"/>
+    <file name="discord.png" crc="3925640901" ref="ancient-launcher:downloads:information:about-project:buy-failed:shellmessage:shellmessage-документация:новости-и-обновления-shellmessage">
+      <caption webpage="shellmessage-документация" alt=""/>
       <caption webpage="downloads" alt=""/>
       <caption webpage="about-project" alt=""/>
       <caption webpage="buy-failed" alt=""/>
+      <caption webpage="ancient-launcher" alt=""/>
+      <caption webpage="information" alt=""/>
+      <caption webpage="новости-и-обновления-shellmessage" alt=""/>
+      <caption webpage="shellmessage" alt=""/>
     </file>
-    <file name="patreon.jpg" crc="3981376549" ref="ancient-launcher:downloads:information:about-project:buy-failed">
-      <caption webpage="ancient-launcher" alt=""/>
-      <caption webpage="information" alt=""/>
+    <file name="patreon.jpg" crc="3981376549" ref="ancient-launcher:downloads:information:about-project:buy-failed:shellmessage:shellmessage-документация:новости-и-обновления-shellmessage">
+      <caption webpage="shellmessage-документация" alt=""/>
       <caption webpage="downloads" alt=""/>
       <caption webpage="about-project" alt=""/>
       <caption webpage="buy-failed" alt=""/>
+      <caption webpage="ancient-launcher" alt=""/>
+      <caption webpage="information" alt=""/>
+      <caption webpage="новости-и-обновления-shellmessage" alt=""/>
+      <caption webpage="shellmessage" alt=""/>
     </file>
-    <file name="steam.png" crc="51002536" ref="ancient-launcher:downloads:information:about-project:buy-failed">
-      <caption webpage="ancient-launcher" alt=""/>
-      <caption webpage="information" alt=""/>
+    <file name="steam.png" crc="51002536" ref="ancient-launcher:downloads:information:about-project:buy-failed:shellmessage:shellmessage-документация:новости-и-обновления-shellmessage">
+      <caption webpage="shellmessage-документация" alt=""/>
       <caption webpage="downloads" alt=""/>
       <caption webpage="about-project" alt=""/>
       <caption webpage="buy-failed" alt=""/>
+      <caption webpage="ancient-launcher" alt=""/>
+      <caption webpage="information" alt=""/>
+      <caption webpage="новости-и-обновления-shellmessage" alt=""/>
+      <caption webpage="shellmessage" alt=""/>
     </file>
-    <file name="curseforge.jpg" crc="3874056928" ref="ancient-launcher:downloads:information:about-project:buy-failed">
-      <caption webpage="ancient-launcher" alt=""/>
-      <caption webpage="information" alt=""/>
+    <file name="curseforge.jpg" crc="3874056928" ref="ancient-launcher:downloads:information:about-project:buy-failed:shellmessage:shellmessage-документация:новости-и-обновления-shellmessage">
+      <caption webpage="shellmessage-документация" alt=""/>
       <caption webpage="downloads" alt=""/>
       <caption webpage="about-project" alt=""/>
       <caption webpage="buy-failed" alt=""/>
+      <caption webpage="ancient-launcher" alt=""/>
+      <caption webpage="information" alt=""/>
+      <caption webpage="новости-и-обновления-shellmessage" alt=""/>
+      <caption webpage="shellmessage" alt=""/>
     </file>
     <file name="dirt.jpg" crc="329450632" ref="ancient-launcher:downloads:information:about-project:buy-failed">
-      <caption webpage="ancient-launcher" alt=""/>
       <caption webpage="information" alt=""/>
       <caption webpage="downloads" alt=""/>
       <caption webpage="about-project" alt=""/>
       <caption webpage="buy-failed" alt=""/>
+      <caption webpage="ancient-launcher" alt=""/>
     </file>
     <file name="logo-u1142.png" crc="3976578939" ref="downloads"/>
     <file name="logo-u1145.png" crc="3976578939" ref="information"/>
     <file name="logo-u1148.png" crc="3976578939" ref="about-project"/>
     <file name="dirt1.jpg" crc="3984302233" ref="buy-minecraft:minecraft:dungeons:legends:dungeons-ultimate:legends-ultimate:triple-bundle">
-      <caption webpage="dungeons-ultimate" alt=""/>
-      <caption webpage="dungeons" alt=""/>
-      <caption webpage="buy-minecraft" alt=""/>
       <caption webpage="triple-bundle" alt=""/>
-      <caption webpage="legends" alt=""/>
+      <caption webpage="dungeons-ultimate" alt=""/>
+      <caption webpage="buy-minecraft" alt=""/>
       <caption webpage="legends-ultimate" alt=""/>
+      <caption webpage="dungeons" alt=""/>
+      <caption webpage="legends" alt=""/>
       <caption webpage="minecraft" alt=""/>
     </file>
     <file name="logo-u1364.png" crc="5700724" ref="buy-minecraft"/>
@@ -209,8 +224,8 @@
     <file name="all1-u1815.png" crc="4111154416" ref="minecraft"/>
     <file name="all2-u1815-r.png" crc="279561174" ref="minecraft"/>
     <file name="bg_minecraft.jpg" crc="326212506" ref="minecraft:triple-bundle">
-      <caption webpage="triple-bundle" alt=""/>
       <caption webpage="minecraft" alt=""/>
+      <caption webpage="triple-bundle" alt=""/>
     </file>
     <file name="logo-u1858.png" crc="5700724" ref="dungeons"/>
     <file name="dungeons1-crop-u1864.jpg" crc="467101515" seo="true" ref="dungeons">
@@ -368,18 +383,65 @@
     <file name="pig-u2939.png" crc="246349722" ref="buy-failed"/>
     <file name="u2957_states.png" crc="4103761212" ref="buy-failed"/>
     <file name="u2957_states-r.png" crc="3790464912" ref="buy-failed"/>
+    <file name="logo_01a.png" crc="427369772" ref="shellmessage">
+      <caption webpage="shellmessage" alt=""/>
+    </file>
+    <file name="logo_01b.png" crc="4052892481" ref="shellmessage">
+      <caption webpage="shellmessage" alt=""/>
+    </file>
+    <file name="u3080-4.png" crc="400446714" ref="shellmessage"/>
+    <file name="anonimous-crop-u3235.png" crc="3891868788" seo="true" ref="shellmessage">
+      <caption webpage="shellmessage" alt=""/>
+    </file>
+    <file name="easy-crop-u3315.png" crc="4149109849" seo="true" ref="shellmessage">
+      <caption webpage="shellmessage" alt=""/>
+    </file>
+    <file name="free-crop-u3335.png" crc="3981252974" seo="true" ref="shellmessage">
+      <caption webpage="shellmessage" alt=""/>
+    </file>
+    <file name="no_register-crop-u3355.png" crc="85709554" seo="true" ref="shellmessage">
+      <caption webpage="shellmessage" alt=""/>
+    </file>
+    <file name="notrash-crop-u3375.png" crc="222532232" seo="true" ref="shellmessage">
+      <caption webpage="shellmessage" alt=""/>
+    </file>
+    <file name="only_client-crop-u3395.png" crc="4169307212" seo="true" ref="shellmessage">
+      <caption webpage="shellmessage" alt=""/>
+    </file>
+    <file name="secured-crop-u3415.png" crc="4199853992" seo="true" ref="shellmessage">
+      <caption webpage="shellmessage" alt=""/>
+    </file>
+    <file name="main.png" crc="93552612" ref="shellmessage">
+      <caption webpage="shellmessage" alt=""/>
+    </file>
+    <file name="main2.png" crc="4077083231" ref="shellmessage">
+      <caption webpage="shellmessage" alt=""/>
+    </file>
+    <file name="connect.png" crc="4146142634" ref="shellmessage">
+      <caption webpage="shellmessage" alt=""/>
+    </file>
+    <file name="connect2.png" crc="3909890205" ref="shellmessage">
+      <caption webpage="shellmessage" alt=""/>
+    </file>
+    <file name="apply.png" crc="339025647" ref="shellmessage">
+      <caption webpage="shellmessage" alt=""/>
+    </file>
+    <file name="u4245-4.png" crc="419381322" ref="новости-и-обновления-shellmessage"/>
   </folder>
   <file name="index.html" crc="33671948" seo="true" mt="1752659659938" redirect="false"/>
-  <file name="ancient-launcher.html" crc="3830226948" seo="true" mt="1752678721284" redirect="true"/>
-  <file name="downloads.html" crc="4004157419" seo="true" mt="1752680647074" redirect="true"/>
-  <file name="information.html" crc="42093222" seo="true" mt="1752668490713" redirect="true"/>
-  <file name="about-project.html" crc="3983671936" seo="true" mt="1752668493948" redirect="true"/>
-  <file name="buy-minecraft.html" crc="449378129" seo="true" mt="1752663769785" redirect="true"/>
-  <file name="minecraft.html" crc="110906923" seo="true" mt="1752659137013" redirect="true"/>
-  <file name="dungeons.html" crc="491628018" seo="true" mt="1752659125075" redirect="true"/>
-  <file name="legends.html" crc="4173674253" seo="true" mt="1752659114876" redirect="true"/>
-  <file name="dungeons-ultimate.html" crc="4141036781" seo="true" mt="1752659096336" redirect="true"/>
-  <file name="legends-ultimate.html" crc="360735933" seo="true" mt="1752659083129" redirect="true"/>
-  <file name="triple-bundle.html" crc="97972365" seo="true" mt="1752664088362" redirect="true"/>
-  <file name="buy-failed.html" crc="273253191" seo="true" mt="1752660182691" redirect="true"/>
+  <file name="ancient-launcher.html" crc="4179512832" seo="true" mt="1752678721284" redirect="true"/>
+  <file name="downloads.html" crc="3832930157" seo="true" mt="1752680647074" redirect="true"/>
+  <file name="information.html" crc="509543393" seo="true" mt="1752668490713" redirect="true"/>
+  <file name="about-project.html" crc="4269570521" seo="true" mt="1752668493948" redirect="true"/>
+  <file name="buy-minecraft.html" crc="4141993324" seo="true" mt="1752663769785" redirect="true"/>
+  <file name="minecraft.html" crc="4062411826" seo="true" mt="1752659137013" redirect="true"/>
+  <file name="dungeons.html" crc="4191079963" seo="true" mt="1752659125075" redirect="true"/>
+  <file name="legends.html" crc="3849470200" seo="true" mt="1752659114876" redirect="true"/>
+  <file name="dungeons-ultimate.html" crc="261263185" seo="true" mt="1752659096336" redirect="true"/>
+  <file name="legends-ultimate.html" crc="3989105005" seo="true" mt="1752659083129" redirect="true"/>
+  <file name="triple-bundle.html" crc="233404379" seo="true" mt="1752664088362" redirect="true"/>
+  <file name="buy-failed.html" crc="4133143145" seo="true" mt="1752660182691" redirect="true"/>
+  <file name="shellmessage.html" crc="75384522" seo="true" mt="1753350061387" redirect="true"/>
+  <file name="shellmessage-документация.html" crc="268535472" seo="true" mt="1753135686872" redirect="true"/>
+  <file name="новости-и-обновления-shellmessage.html" crc="207734062" seo="true" mt="1753136118866" redirect="true"/>
 </manifest>
