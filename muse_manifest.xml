@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="joron.com" resolutions="1x" timestamp="1753375353451">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="joron.com" resolutions="1x" timestamp="1753383132257">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="index.css" crc="37844552" ref="index"/>
@@ -15,7 +15,7 @@
     <file name="dungeons.css" crc="4268512858" ref="dungeons"/>
     <file name="information.css" crc="345405440" ref="information"/>
     <file name="shellmessage.css" crc="4275044856" ref="shellmessage"/>
-    <file name="joronsupport.css" crc="4262068518" ref="joronsupport"/>
+    <file name="joronsupport.css" crc="3833141373" ref="joronsupport"/>
     <file name="legends.css" crc="268854206" ref="legends"/>
     <file name="downloads.css" crc="25710566" ref="downloads"/>
   </folder>
@@ -33,6 +33,7 @@
     <file name="touchswipe.js" crc="3888935200" ref="ancient-launcher:minecraft:dungeons:legends:dungeons-ultimate:legends-ultimate:triple-bundle:shellmessage"/>
   </folder>
   <folder name="images">
+    <file name="ancient-launcher-favicon.ico" crc="4052198030" ref="ancient-launcher"/>
     <file name="stone2.jpg" crc="4035481180" ref="ancient-launcher:downloads:information:about-project:buy-minecraft:minecraft:dungeons:legends:dungeons-ultimate:legends-ultimate:triple-bundle:buy-failed">
       <caption webpage="about-project" alt=""/>
       <caption webpage="about-project" alt=""/>
@@ -166,9 +167,13 @@
       <caption webpage="information" alt=""/>
       <caption webpage="buy-failed" alt=""/>
     </file>
+    <file name="downloads-favicon.ico" crc="4052198030" ref="downloads"/>
     <file name="logo-u1142.png" crc="3976578939" ref="downloads"/>
+    <file name="information-favicon.ico" crc="4052198030" ref="information"/>
     <file name="logo-u1145.png" crc="3976578939" ref="information"/>
+    <file name="about-project-favicon.ico" crc="4052198030" ref="about-project"/>
     <file name="logo-u1148.png" crc="3976578939" ref="about-project"/>
+    <file name="buy-minecraft-favicon.ico" crc="4052198030" ref="buy-minecraft"/>
     <file name="dirt1.jpg" crc="3984302233" ref="buy-minecraft:minecraft:dungeons:legends:dungeons-ultimate:legends-ultimate:triple-bundle">
       <caption webpage="triple-bundle" alt=""/>
       <caption webpage="buy-minecraft" alt=""/>
@@ -203,6 +208,7 @@
     <file name="dungeons2-u1380-r.png" crc="462495000" ref="buy-minecraft"/>
     <file name="all1-u1407.png" crc="4111154416" ref="buy-minecraft"/>
     <file name="all2-u1407-r.png" crc="279561174" ref="buy-minecraft"/>
+    <file name="minecraft-favicon.ico" crc="4052198030" ref="minecraft"/>
     <file name="logo-u1502.png" crc="5700724" ref="minecraft"/>
     <file name="minecraft1-crop-u1596.jpg" crc="4127913824" seo="true" ref="minecraft">
       <caption webpage="minecraft" alt=""/>
@@ -232,6 +238,7 @@
       <caption webpage="minecraft" alt=""/>
       <caption webpage="triple-bundle" alt=""/>
     </file>
+    <file name="dungeons-favicon.ico" crc="4052198030" ref="dungeons"/>
     <file name="logo-u1858.png" crc="5700724" ref="dungeons"/>
     <file name="dungeons1-crop-u1864.jpg" crc="467101515" seo="true" ref="dungeons">
       <caption webpage="dungeons" alt=""/>
@@ -260,6 +267,7 @@
       <caption webpage="dungeons" alt=""/>
       <caption webpage="dungeons-ultimate" alt=""/>
     </file>
+    <file name="legends-favicon.ico" crc="4052198030" ref="legends"/>
     <file name="logo-u2031.png" crc="5700724" ref="legends"/>
     <file name="legends1-crop-u2010.png" crc="486899493" seo="true" ref="legends">
       <caption webpage="legends" alt=""/>
@@ -289,6 +297,7 @@
       <caption webpage="legends-ultimate" alt=""/>
       <caption webpage="legends" alt=""/>
     </file>
+    <file name="dungeons-ultimate-favicon.ico" crc="4052198030" ref="dungeons-ultimate"/>
     <file name="logo-u2398.png" crc="5700724" ref="dungeons-ultimate"/>
     <file name="dungeons1-crop-u2372.jpg" crc="467101515" seo="true" ref="dungeons-ultimate">
       <caption webpage="dungeons-ultimate" alt=""/>
@@ -309,6 +318,7 @@
       <caption webpage="dungeons-ultimate" alt=""/>
     </file>
     <file name="pig-u2391.png" crc="246349722" ref="dungeons-ultimate"/>
+    <file name="legends-ultimate-favicon.ico" crc="4052198030" ref="legends-ultimate"/>
     <file name="logo-u2465.png" crc="5700724" ref="legends-ultimate"/>
     <file name="legends1-crop-u2423.png" crc="486899493" seo="true" ref="legends-ultimate">
       <caption webpage="legends-ultimate" alt=""/>
@@ -328,6 +338,7 @@
     <file name="legends3-crop-u2430.png" crc="3817344417" seo="true" ref="legends-ultimate">
       <caption webpage="legends-ultimate" alt=""/>
     </file>
+    <file name="triple-bundle-favicon.ico" crc="4052198030" ref="triple-bundle"/>
     <file name="logo-u2561.png" crc="5700724" ref="triple-bundle"/>
     <file name="minecraft1-crop-u2569.jpg" crc="4127913824" seo="true" ref="triple-bundle">
       <caption webpage="triple-bundle" alt=""/>
@@ -384,10 +395,12 @@
       <caption webpage="triple-bundle" alt=""/>
     </file>
     <file name="pig-u2554.png" crc="246349722" ref="triple-bundle"/>
+    <file name="buy-failed-favicon.ico" crc="4052198030" ref="buy-failed"/>
     <file name="logo-u2891.png" crc="3976578939" ref="buy-failed"/>
     <file name="pig-u2939.png" crc="246349722" ref="buy-failed"/>
     <file name="u2957_states.png" crc="4103761212" ref="buy-failed"/>
     <file name="u2957_states-r.png" crc="3790464912" ref="buy-failed"/>
+    <file name="shellmessage-favicon.ico" crc="4179746913" ref="shellmessage"/>
     <file name="logo_01a.png" crc="427369772" ref="shellmessage">
       <caption webpage="shellmessage" alt=""/>
     </file>
@@ -431,6 +444,8 @@
     <file name="apply.png" crc="339025647" ref="shellmessage">
       <caption webpage="shellmessage" alt=""/>
     </file>
+    <file name="shellmessage-документация-favicon.ico" crc="4179746913" ref="shellmessage-документация"/>
+    <file name="новости-и-обновления-shellmessage-favicon.ico" crc="4179746913" ref="новости-и-обновления-shellmessage"/>
     <file name="u4245-4.png" crc="419381322" ref="новости-и-обновления-shellmessage"/>
     <file name="joronsupport-favicon.ico" crc="4112846462" ref="joronsupport"/>
     <file name="joron_classic_rem_v1m.jpg" crc="3802449734" ref="joronsupport">
@@ -450,20 +465,20 @@
     </file>
   </folder>
   <file name="index.html" crc="33671948" seo="true" mt="1752659659938" redirect="false"/>
-  <file name="ancient-launcher.html" crc="4179512832" seo="true" mt="1752678721284" redirect="true"/>
-  <file name="downloads.html" crc="3832930157" seo="true" mt="1752680647074" redirect="true"/>
-  <file name="information.html" crc="509543393" seo="true" mt="1752668490713" redirect="true"/>
-  <file name="about-project.html" crc="4269570521" seo="true" mt="1752668493948" redirect="true"/>
-  <file name="buy-minecraft.html" crc="4141993324" seo="true" mt="1752663769785" redirect="true"/>
-  <file name="minecraft.html" crc="4062411826" seo="true" mt="1752659137013" redirect="true"/>
-  <file name="dungeons.html" crc="4191079963" seo="true" mt="1752659125075" redirect="true"/>
-  <file name="legends.html" crc="3849470200" seo="true" mt="1752659114876" redirect="true"/>
-  <file name="dungeons-ultimate.html" crc="261263185" seo="true" mt="1752659096336" redirect="true"/>
-  <file name="legends-ultimate.html" crc="3989105005" seo="true" mt="1752659083129" redirect="true"/>
-  <file name="triple-bundle.html" crc="233404379" seo="true" mt="1752664088362" redirect="true"/>
-  <file name="buy-failed.html" crc="4133143145" seo="true" mt="1752660182691" redirect="true"/>
-  <file name="shellmessage.html" crc="4173835589" seo="true" mt="1753375062741" redirect="true"/>
-  <file name="shellmessage-документация.html" crc="3948292081" seo="true" mt="1753375088293" redirect="true"/>
-  <file name="новости-и-обновления-shellmessage.html" crc="4080541367" seo="true" mt="1753375074358" redirect="true"/>
-  <file name="joronsupport.html" crc="4125061794" seo="true" mt="1753375312404" redirect="true"/>
+  <file name="ancient-launcher.html" crc="4278837324" seo="true" mt="1753375976745" redirect="true"/>
+  <file name="downloads.html" crc="3782209709" seo="true" mt="1753376126010" redirect="true"/>
+  <file name="information.html" crc="3871705562" seo="true" mt="1753376114957" redirect="true"/>
+  <file name="about-project.html" crc="3919136968" seo="true" mt="1753376105603" redirect="true"/>
+  <file name="buy-minecraft.html" crc="362880659" seo="true" mt="1753376094054" redirect="true"/>
+  <file name="minecraft.html" crc="3843553098" seo="true" mt="1753376081278" redirect="true"/>
+  <file name="dungeons.html" crc="3855210121" seo="true" mt="1753376071190" redirect="true"/>
+  <file name="legends.html" crc="3761450578" seo="true" mt="1753376061327" redirect="true"/>
+  <file name="dungeons-ultimate.html" crc="4248438687" seo="true" mt="1753376019051" redirect="true"/>
+  <file name="legends-ultimate.html" crc="4290491862" seo="true" mt="1753376003384" redirect="true"/>
+  <file name="triple-bundle.html" crc="4041544344" seo="true" mt="1753376038235" redirect="true"/>
+  <file name="buy-failed.html" crc="89119728" seo="true" mt="1753375991412" redirect="true"/>
+  <file name="shellmessage.html" crc="4208331504" seo="true" mt="1753376159908" redirect="true"/>
+  <file name="shellmessage-документация.html" crc="4189866842" seo="true" mt="1753376184600" redirect="true"/>
+  <file name="новости-и-обновления-shellmessage.html" crc="4077070206" seo="true" mt="1753376172646" redirect="true"/>
+  <file name="joronsupport.html" crc="4071769983" seo="true" mt="1753383116424" redirect="true"/>
 </manifest>
