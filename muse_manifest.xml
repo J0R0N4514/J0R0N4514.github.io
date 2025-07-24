@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="joron.com" resolutions="1x" timestamp="1753383132257">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="joron.com" resolutions="1x" timestamp="1753384184040">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="index.css" crc="37844552" ref="index"/>
@@ -7,7 +7,7 @@
     <file name="buy-failed.css" crc="4157436580" ref="buy-failed"/>
     <file name="shellmessage-____________.css" crc="3790149673" ref="shellmessage-документация"/>
     <file name="dungeons-ultimate.css" crc="3941882803" ref="dungeons-ultimate"/>
-    <file name="_______-_-__________-shellmessage.css" crc="438896895" ref="новости-и-обновления-shellmessage"/>
+    <file name="shellmessage-news-and-updates.css" crc="253853334" ref="shellmessage-news-and-updates"/>
     <file name="ancient-launcher.css" crc="413575459" ref="ancient-launcher"/>
     <file name="legends-ultimate.css" crc="3777309584" ref="legends-ultimate"/>
     <file name="minecraft.css" crc="112400264" ref="minecraft"/>
@@ -20,13 +20,13 @@
     <file name="downloads.css" crc="25710566" ref="downloads"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:ancient-launcher:downloads:information:about-project:buy-minecraft:minecraft:dungeons:legends:dungeons-ultimate:legends-ultimate:triple-bundle:buy-failed:shellmessage:shellmessage-документация:новости-и-обновления-shellmessage:joronsupport"/>
-    <file name="museutils.js" crc="3939489907" ref="index:ancient-launcher:downloads:information:about-project:buy-minecraft:minecraft:dungeons:legends:dungeons-ultimate:legends-ultimate:triple-bundle:buy-failed:shellmessage:shellmessage-документация:новости-и-обновления-shellmessage:joronsupport"/>
-    <file name="whatinput.js" crc="86476730" ref="index:ancient-launcher:downloads:information:about-project:buy-minecraft:minecraft:dungeons:legends:dungeons-ultimate:legends-ultimate:triple-bundle:buy-failed:shellmessage:shellmessage-документация:новости-и-обновления-shellmessage:joronsupport"/>
-    <file name="museconfig.js" crc="3936894949" ref="index:ancient-launcher:downloads:information:about-project:buy-minecraft:minecraft:dungeons:legends:dungeons-ultimate:legends-ultimate:triple-bundle:buy-failed:shellmessage:shellmessage-документация:новости-и-обновления-shellmessage:joronsupport"/>
-    <file name="jquery.watch.js" crc="522499760" ref="index:ancient-launcher:downloads:information:about-project:buy-minecraft:minecraft:dungeons:legends:dungeons-ultimate:legends-ultimate:triple-bundle:buy-failed:shellmessage:shellmessage-документация:новости-и-обновления-shellmessage:joronsupport"/>
-    <file name="require.js" crc="4177726516" ref="index:ancient-launcher:downloads:information:about-project:buy-minecraft:minecraft:dungeons:legends:dungeons-ultimate:legends-ultimate:triple-bundle:buy-failed:shellmessage:shellmessage-документация:новости-и-обновления-shellmessage:joronsupport"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="85124417" ref="ancient-launcher:downloads:information:about-project:buy-minecraft:minecraft:dungeons:legends:dungeons-ultimate:legends-ultimate:triple-bundle:buy-failed:shellmessage:shellmessage-документация:новости-и-обновления-shellmessage:joronsupport"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:ancient-launcher:downloads:information:about-project:buy-minecraft:minecraft:dungeons:legends:dungeons-ultimate:legends-ultimate:triple-bundle:buy-failed:shellmessage:shellmessage-документация:joronsupport:shellmessage-news-and-updates"/>
+    <file name="museutils.js" crc="3939489907" ref="index:ancient-launcher:downloads:information:about-project:buy-minecraft:minecraft:dungeons:legends:dungeons-ultimate:legends-ultimate:triple-bundle:buy-failed:shellmessage:shellmessage-документация:joronsupport:shellmessage-news-and-updates"/>
+    <file name="whatinput.js" crc="86476730" ref="index:ancient-launcher:downloads:information:about-project:buy-minecraft:minecraft:dungeons:legends:dungeons-ultimate:legends-ultimate:triple-bundle:buy-failed:shellmessage:shellmessage-документация:joronsupport:shellmessage-news-and-updates"/>
+    <file name="museconfig.js" crc="3936894949" ref="index:ancient-launcher:downloads:information:about-project:buy-minecraft:minecraft:dungeons:legends:dungeons-ultimate:legends-ultimate:triple-bundle:buy-failed:shellmessage:shellmessage-документация:joronsupport:shellmessage-news-and-updates"/>
+    <file name="jquery.watch.js" crc="522499760" ref="index:ancient-launcher:downloads:information:about-project:buy-minecraft:minecraft:dungeons:legends:dungeons-ultimate:legends-ultimate:triple-bundle:buy-failed:shellmessage:shellmessage-документация:joronsupport:shellmessage-news-and-updates"/>
+    <file name="require.js" crc="4177726516" ref="index:ancient-launcher:downloads:information:about-project:buy-minecraft:minecraft:dungeons:legends:dungeons-ultimate:legends-ultimate:triple-bundle:buy-failed:shellmessage:shellmessage-документация:joronsupport:shellmessage-news-and-updates"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="85124417" ref="ancient-launcher:downloads:information:about-project:buy-minecraft:minecraft:dungeons:legends:dungeons-ultimate:legends-ultimate:triple-bundle:buy-failed:shellmessage:shellmessage-документация:joronsupport:shellmessage-news-and-updates"/>
     <file name="webpro.js" crc="3856315280" ref="ancient-launcher:minecraft:dungeons:legends:dungeons-ultimate:legends-ultimate:triple-bundle:shellmessage"/>
     <file name="musewpslideshow.js" crc="244150766" ref="ancient-launcher:minecraft:dungeons:legends:dungeons-ultimate:legends-ultimate:triple-bundle:shellmessage"/>
     <file name="jquery.museoverlay.js" crc="3877667098" ref="ancient-launcher:minecraft:dungeons:legends:dungeons-ultimate:legends-ultimate:triple-bundle:shellmessage"/>
@@ -116,48 +116,48 @@
     <file name="u374-4.png" crc="3871574171" ref="ancient-launcher"/>
     <file name="u387-4.png" crc="44532636" ref="ancient-launcher"/>
     <file name="loading.gif" crc="3815509949" ref="ancient-launcher:minecraft:dungeons:legends:dungeons-ultimate:legends-ultimate:triple-bundle:shellmessage"/>
-    <file name="discord.png" crc="3925640901" ref="ancient-launcher:downloads:information:about-project:buy-failed:shellmessage:shellmessage-документация:новости-и-обновления-shellmessage:joronsupport">
+    <file name="discord.png" crc="3925640901" ref="ancient-launcher:downloads:information:about-project:buy-failed:shellmessage:shellmessage-документация:joronsupport:shellmessage-news-and-updates">
       <caption webpage="joronsupport" alt=""/>
       <caption webpage="about-project" alt=""/>
       <caption webpage="ancient-launcher" alt=""/>
       <caption webpage="buy-failed" alt=""/>
-      <caption webpage="новости-и-обновления-shellmessage" alt=""/>
       <caption webpage="shellmessage-документация" alt=""/>
       <caption webpage="downloads" alt=""/>
       <caption webpage="information" alt=""/>
+      <caption webpage="shellmessage-news-and-updates" alt=""/>
       <caption webpage="shellmessage" alt=""/>
     </file>
-    <file name="patreon.jpg" crc="3981376549" ref="ancient-launcher:downloads:information:about-project:buy-failed:shellmessage:shellmessage-документация:новости-и-обновления-shellmessage:joronsupport">
+    <file name="patreon.jpg" crc="3981376549" ref="ancient-launcher:downloads:information:about-project:buy-failed:shellmessage:shellmessage-документация:joronsupport:shellmessage-news-and-updates">
       <caption webpage="joronsupport" alt=""/>
       <caption webpage="about-project" alt=""/>
       <caption webpage="ancient-launcher" alt=""/>
       <caption webpage="buy-failed" alt=""/>
-      <caption webpage="новости-и-обновления-shellmessage" alt=""/>
       <caption webpage="shellmessage-документация" alt=""/>
       <caption webpage="downloads" alt=""/>
       <caption webpage="information" alt=""/>
+      <caption webpage="shellmessage-news-and-updates" alt=""/>
       <caption webpage="shellmessage" alt=""/>
     </file>
-    <file name="steam.png" crc="51002536" ref="ancient-launcher:downloads:information:about-project:buy-failed:shellmessage:shellmessage-документация:новости-и-обновления-shellmessage:joronsupport">
+    <file name="steam.png" crc="51002536" ref="ancient-launcher:downloads:information:about-project:buy-failed:shellmessage:shellmessage-документация:joronsupport:shellmessage-news-and-updates">
       <caption webpage="joronsupport" alt=""/>
       <caption webpage="about-project" alt=""/>
       <caption webpage="ancient-launcher" alt=""/>
       <caption webpage="buy-failed" alt=""/>
-      <caption webpage="новости-и-обновления-shellmessage" alt=""/>
       <caption webpage="shellmessage-документация" alt=""/>
       <caption webpage="downloads" alt=""/>
       <caption webpage="information" alt=""/>
+      <caption webpage="shellmessage-news-and-updates" alt=""/>
       <caption webpage="shellmessage" alt=""/>
     </file>
-    <file name="curseforge.jpg" crc="3874056928" ref="ancient-launcher:downloads:information:about-project:buy-failed:shellmessage:shellmessage-документация:новости-и-обновления-shellmessage:joronsupport">
+    <file name="curseforge.jpg" crc="3874056928" ref="ancient-launcher:downloads:information:about-project:buy-failed:shellmessage:shellmessage-документация:joronsupport:shellmessage-news-and-updates">
       <caption webpage="joronsupport" alt=""/>
       <caption webpage="about-project" alt=""/>
       <caption webpage="ancient-launcher" alt=""/>
       <caption webpage="buy-failed" alt=""/>
-      <caption webpage="новости-и-обновления-shellmessage" alt=""/>
       <caption webpage="shellmessage-документация" alt=""/>
       <caption webpage="downloads" alt=""/>
       <caption webpage="information" alt=""/>
+      <caption webpage="shellmessage-news-and-updates" alt=""/>
       <caption webpage="shellmessage" alt=""/>
     </file>
     <file name="dirt.jpg" crc="329450632" ref="ancient-launcher:downloads:information:about-project:buy-failed">
@@ -445,8 +445,6 @@
       <caption webpage="shellmessage" alt=""/>
     </file>
     <file name="shellmessage-документация-favicon.ico" crc="4179746913" ref="shellmessage-документация"/>
-    <file name="новости-и-обновления-shellmessage-favicon.ico" crc="4179746913" ref="новости-и-обновления-shellmessage"/>
-    <file name="u4245-4.png" crc="419381322" ref="новости-и-обновления-shellmessage"/>
     <file name="joronsupport-favicon.ico" crc="4112846462" ref="joronsupport"/>
     <file name="joron_classic_rem_v1m.jpg" crc="3802449734" ref="joronsupport">
       <caption webpage="joronsupport" alt=""/>
@@ -463,6 +461,8 @@
     <file name="author_card_bg.jpg" crc="407424" ref="joronsupport">
       <caption webpage="joronsupport" alt=""/>
     </file>
+    <file name="shellmessage-news-and-updates-favicon.ico" crc="4179746913" ref="shellmessage-news-and-updates"/>
+    <file name="u4866-4.png" crc="419381322" ref="shellmessage-news-and-updates"/>
   </folder>
   <file name="index.html" crc="33671948" seo="true" mt="1752659659938" redirect="false"/>
   <file name="ancient-launcher.html" crc="4278837324" seo="true" mt="1753375976745" redirect="true"/>
@@ -477,8 +477,8 @@
   <file name="legends-ultimate.html" crc="4290491862" seo="true" mt="1753376003384" redirect="true"/>
   <file name="triple-bundle.html" crc="4041544344" seo="true" mt="1753376038235" redirect="true"/>
   <file name="buy-failed.html" crc="89119728" seo="true" mt="1753375991412" redirect="true"/>
-  <file name="shellmessage.html" crc="4208331504" seo="true" mt="1753376159908" redirect="true"/>
-  <file name="shellmessage-документация.html" crc="4189866842" seo="true" mt="1753376184600" redirect="true"/>
-  <file name="новости-и-обновления-shellmessage.html" crc="4077070206" seo="true" mt="1753376172646" redirect="true"/>
-  <file name="joronsupport.html" crc="4071769983" seo="true" mt="1753383116424" redirect="true"/>
+  <file name="shellmessage.html" crc="482276820" seo="true" mt="1753384134494" redirect="true"/>
+  <file name="shellmessage-документация.html" crc="144290712" seo="true" mt="1753384110139" redirect="true"/>
+  <file name="joronsupport.html" crc="3868607163" seo="true" mt="1753383116424" redirect="true"/>
+  <file name="shellmessage-news-and-updates.html" crc="58536434" seo="true" mt="1753384125627" redirect="true"/>
 </manifest>
