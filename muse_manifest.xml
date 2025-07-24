@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="joron.com" resolutions="1x" timestamp="1753352269987">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="joron.com" resolutions="1x" timestamp="1753375353451">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="index.css" crc="37844552" ref="index"/>
@@ -15,17 +15,18 @@
     <file name="dungeons.css" crc="4268512858" ref="dungeons"/>
     <file name="information.css" crc="345405440" ref="information"/>
     <file name="shellmessage.css" crc="4275044856" ref="shellmessage"/>
+    <file name="joronsupport.css" crc="4262068518" ref="joronsupport"/>
     <file name="legends.css" crc="268854206" ref="legends"/>
     <file name="downloads.css" crc="25710566" ref="downloads"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:ancient-launcher:downloads:information:about-project:buy-minecraft:minecraft:dungeons:legends:dungeons-ultimate:legends-ultimate:triple-bundle:buy-failed:shellmessage:shellmessage-документация:новости-и-обновления-shellmessage"/>
-    <file name="museutils.js" crc="3939489907" ref="index:ancient-launcher:downloads:information:about-project:buy-minecraft:minecraft:dungeons:legends:dungeons-ultimate:legends-ultimate:triple-bundle:buy-failed:shellmessage:shellmessage-документация:новости-и-обновления-shellmessage"/>
-    <file name="whatinput.js" crc="86476730" ref="index:ancient-launcher:downloads:information:about-project:buy-minecraft:minecraft:dungeons:legends:dungeons-ultimate:legends-ultimate:triple-bundle:buy-failed:shellmessage:shellmessage-документация:новости-и-обновления-shellmessage"/>
-    <file name="museconfig.js" crc="3936894949" ref="index:ancient-launcher:downloads:information:about-project:buy-minecraft:minecraft:dungeons:legends:dungeons-ultimate:legends-ultimate:triple-bundle:buy-failed:shellmessage:shellmessage-документация:новости-и-обновления-shellmessage"/>
-    <file name="jquery.watch.js" crc="522499760" ref="index:ancient-launcher:downloads:information:about-project:buy-minecraft:minecraft:dungeons:legends:dungeons-ultimate:legends-ultimate:triple-bundle:buy-failed:shellmessage:shellmessage-документация:новости-и-обновления-shellmessage"/>
-    <file name="require.js" crc="4177726516" ref="index:ancient-launcher:downloads:information:about-project:buy-minecraft:minecraft:dungeons:legends:dungeons-ultimate:legends-ultimate:triple-bundle:buy-failed:shellmessage:shellmessage-документация:новости-и-обновления-shellmessage"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="85124417" ref="ancient-launcher:downloads:information:about-project:buy-minecraft:minecraft:dungeons:legends:dungeons-ultimate:legends-ultimate:triple-bundle:buy-failed:shellmessage:shellmessage-документация:новости-и-обновления-shellmessage"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:ancient-launcher:downloads:information:about-project:buy-minecraft:minecraft:dungeons:legends:dungeons-ultimate:legends-ultimate:triple-bundle:buy-failed:shellmessage:shellmessage-документация:новости-и-обновления-shellmessage:joronsupport"/>
+    <file name="museutils.js" crc="3939489907" ref="index:ancient-launcher:downloads:information:about-project:buy-minecraft:minecraft:dungeons:legends:dungeons-ultimate:legends-ultimate:triple-bundle:buy-failed:shellmessage:shellmessage-документация:новости-и-обновления-shellmessage:joronsupport"/>
+    <file name="whatinput.js" crc="86476730" ref="index:ancient-launcher:downloads:information:about-project:buy-minecraft:minecraft:dungeons:legends:dungeons-ultimate:legends-ultimate:triple-bundle:buy-failed:shellmessage:shellmessage-документация:новости-и-обновления-shellmessage:joronsupport"/>
+    <file name="museconfig.js" crc="3936894949" ref="index:ancient-launcher:downloads:information:about-project:buy-minecraft:minecraft:dungeons:legends:dungeons-ultimate:legends-ultimate:triple-bundle:buy-failed:shellmessage:shellmessage-документация:новости-и-обновления-shellmessage:joronsupport"/>
+    <file name="jquery.watch.js" crc="522499760" ref="index:ancient-launcher:downloads:information:about-project:buy-minecraft:minecraft:dungeons:legends:dungeons-ultimate:legends-ultimate:triple-bundle:buy-failed:shellmessage:shellmessage-документация:новости-и-обновления-shellmessage:joronsupport"/>
+    <file name="require.js" crc="4177726516" ref="index:ancient-launcher:downloads:information:about-project:buy-minecraft:minecraft:dungeons:legends:dungeons-ultimate:legends-ultimate:triple-bundle:buy-failed:shellmessage:shellmessage-документация:новости-и-обновления-shellmessage:joronsupport"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="85124417" ref="ancient-launcher:downloads:information:about-project:buy-minecraft:minecraft:dungeons:legends:dungeons-ultimate:legends-ultimate:triple-bundle:buy-failed:shellmessage:shellmessage-документация:новости-и-обновления-shellmessage:joronsupport"/>
     <file name="webpro.js" crc="3856315280" ref="ancient-launcher:minecraft:dungeons:legends:dungeons-ultimate:legends-ultimate:triple-bundle:shellmessage"/>
     <file name="musewpslideshow.js" crc="244150766" ref="ancient-launcher:minecraft:dungeons:legends:dungeons-ultimate:legends-ultimate:triple-bundle:shellmessage"/>
     <file name="jquery.museoverlay.js" crc="3877667098" ref="ancient-launcher:minecraft:dungeons:legends:dungeons-ultimate:legends-ultimate:triple-bundle:shellmessage"/>
@@ -33,69 +34,69 @@
   </folder>
   <folder name="images">
     <file name="stone2.jpg" crc="4035481180" ref="ancient-launcher:downloads:information:about-project:buy-minecraft:minecraft:dungeons:legends:dungeons-ultimate:legends-ultimate:triple-bundle:buy-failed">
-      <caption webpage="triple-bundle" alt=""/>
-      <caption webpage="triple-bundle" alt=""/>
-      <caption webpage="downloads" alt=""/>
-      <caption webpage="downloads" alt=""/>
-      <caption webpage="downloads" alt=""/>
-      <caption webpage="downloads" alt=""/>
       <caption webpage="about-project" alt=""/>
       <caption webpage="about-project" alt=""/>
       <caption webpage="about-project" alt=""/>
       <caption webpage="about-project" alt=""/>
       <caption webpage="about-project" alt=""/>
-      <caption webpage="minecraft" alt=""/>
-      <caption webpage="minecraft" alt=""/>
       <caption webpage="legends-ultimate" alt=""/>
       <caption webpage="legends-ultimate" alt=""/>
+      <caption webpage="triple-bundle" alt=""/>
+      <caption webpage="triple-bundle" alt=""/>
+      <caption webpage="ancient-launcher" alt=""/>
+      <caption webpage="ancient-launcher" alt=""/>
+      <caption webpage="ancient-launcher" alt=""/>
+      <caption webpage="ancient-launcher" alt=""/>
+      <caption webpage="ancient-launcher" alt=""/>
+      <caption webpage="ancient-launcher" alt=""/>
+      <caption webpage="dungeons" alt=""/>
+      <caption webpage="dungeons" alt=""/>
       <caption webpage="buy-failed" alt=""/>
-      <caption webpage="information" alt=""/>
-      <caption webpage="information" alt=""/>
-      <caption webpage="information" alt=""/>
-      <caption webpage="information" alt=""/>
-      <caption webpage="information" alt=""/>
-      <caption webpage="information" alt=""/>
-      <caption webpage="information" alt=""/>
-      <caption webpage="information" alt=""/>
-      <caption webpage="dungeons" alt=""/>
-      <caption webpage="dungeons" alt=""/>
-      <caption webpage="dungeons-ultimate" alt=""/>
-      <caption webpage="dungeons-ultimate" alt=""/>
       <caption webpage="buy-minecraft" alt=""/>
+      <caption webpage="minecraft" alt=""/>
+      <caption webpage="minecraft" alt=""/>
+      <caption webpage="dungeons-ultimate" alt=""/>
+      <caption webpage="dungeons-ultimate" alt=""/>
+      <caption webpage="downloads" alt=""/>
+      <caption webpage="downloads" alt=""/>
+      <caption webpage="downloads" alt=""/>
+      <caption webpage="downloads" alt=""/>
+      <caption webpage="information" alt=""/>
+      <caption webpage="information" alt=""/>
+      <caption webpage="information" alt=""/>
+      <caption webpage="information" alt=""/>
+      <caption webpage="information" alt=""/>
+      <caption webpage="information" alt=""/>
+      <caption webpage="information" alt=""/>
+      <caption webpage="information" alt=""/>
       <caption webpage="legends" alt=""/>
       <caption webpage="legends" alt=""/>
-      <caption webpage="ancient-launcher" alt=""/>
-      <caption webpage="ancient-launcher" alt=""/>
-      <caption webpage="ancient-launcher" alt=""/>
-      <caption webpage="ancient-launcher" alt=""/>
-      <caption webpage="ancient-launcher" alt=""/>
-      <caption webpage="ancient-launcher" alt=""/>
     </file>
     <file name="stone.jpg" crc="483276194" ref="ancient-launcher:downloads:information:about-project:buy-minecraft:minecraft:dungeons:legends:dungeons-ultimate:legends-ultimate:triple-bundle:buy-failed">
-      <caption webpage="triple-bundle" alt=""/>
-      <caption webpage="triple-bundle" alt=""/>
-      <caption webpage="downloads" alt=""/>
-      <caption webpage="downloads" alt=""/>
       <caption webpage="about-project" alt=""/>
       <caption webpage="about-project" alt=""/>
-      <caption webpage="minecraft" alt=""/>
-      <caption webpage="minecraft" alt=""/>
       <caption webpage="legends-ultimate" alt=""/>
       <caption webpage="legends-ultimate" alt=""/>
+      <caption webpage="triple-bundle" alt=""/>
+      <caption webpage="triple-bundle" alt=""/>
+      <caption webpage="ancient-launcher" alt=""/>
+      <caption webpage="ancient-launcher" alt=""/>
+      <caption webpage="ancient-launcher" alt=""/>
+      <caption webpage="ancient-launcher" alt=""/>
+      <caption webpage="dungeons" alt=""/>
+      <caption webpage="dungeons" alt=""/>
       <caption webpage="buy-failed" alt=""/>
-      <caption webpage="information" alt=""/>
-      <caption webpage="information" alt=""/>
-      <caption webpage="dungeons" alt=""/>
-      <caption webpage="dungeons" alt=""/>
-      <caption webpage="dungeons-ultimate" alt=""/>
-      <caption webpage="dungeons-ultimate" alt=""/>
       <caption webpage="buy-minecraft" alt=""/>
+      <caption webpage="minecraft" alt=""/>
+      <caption webpage="minecraft" alt=""/>
+      <caption webpage="dungeons-ultimate" alt=""/>
+      <caption webpage="dungeons-ultimate" alt=""/>
+      <caption webpage="downloads" alt=""/>
+      <caption webpage="downloads" alt=""/>
+      <caption webpage="information" alt=""/>
+      <caption webpage="information" alt=""/>
       <caption webpage="legends" alt=""/>
       <caption webpage="legends" alt=""/>
-      <caption webpage="ancient-launcher" alt=""/>
-      <caption webpage="ancient-launcher" alt=""/>
-      <caption webpage="ancient-launcher" alt=""/>
-      <caption webpage="ancient-launcher" alt=""/>
     </file>
     <file name="logo-u149-a.png" crc="3976578939" ref="ancient-launcher"/>
     <file name="screenshot01.jpg" crc="43555448" seo="true" ref="ancient-launcher">
@@ -114,64 +115,68 @@
     <file name="u374-4.png" crc="3871574171" ref="ancient-launcher"/>
     <file name="u387-4.png" crc="44532636" ref="ancient-launcher"/>
     <file name="loading.gif" crc="3815509949" ref="ancient-launcher:minecraft:dungeons:legends:dungeons-ultimate:legends-ultimate:triple-bundle:shellmessage"/>
-    <file name="discord.png" crc="3925640901" ref="ancient-launcher:downloads:information:about-project:buy-failed:shellmessage:shellmessage-документация:новости-и-обновления-shellmessage">
+    <file name="discord.png" crc="3925640901" ref="ancient-launcher:downloads:information:about-project:buy-failed:shellmessage:shellmessage-документация:новости-и-обновления-shellmessage:joronsupport">
+      <caption webpage="joronsupport" alt=""/>
+      <caption webpage="about-project" alt=""/>
+      <caption webpage="ancient-launcher" alt=""/>
+      <caption webpage="buy-failed" alt=""/>
+      <caption webpage="новости-и-обновления-shellmessage" alt=""/>
       <caption webpage="shellmessage-документация" alt=""/>
       <caption webpage="downloads" alt=""/>
-      <caption webpage="about-project" alt=""/>
-      <caption webpage="buy-failed" alt=""/>
-      <caption webpage="ancient-launcher" alt=""/>
       <caption webpage="information" alt=""/>
-      <caption webpage="новости-и-обновления-shellmessage" alt=""/>
       <caption webpage="shellmessage" alt=""/>
     </file>
-    <file name="patreon.jpg" crc="3981376549" ref="ancient-launcher:downloads:information:about-project:buy-failed:shellmessage:shellmessage-документация:новости-и-обновления-shellmessage">
+    <file name="patreon.jpg" crc="3981376549" ref="ancient-launcher:downloads:information:about-project:buy-failed:shellmessage:shellmessage-документация:новости-и-обновления-shellmessage:joronsupport">
+      <caption webpage="joronsupport" alt=""/>
+      <caption webpage="about-project" alt=""/>
+      <caption webpage="ancient-launcher" alt=""/>
+      <caption webpage="buy-failed" alt=""/>
+      <caption webpage="новости-и-обновления-shellmessage" alt=""/>
       <caption webpage="shellmessage-документация" alt=""/>
       <caption webpage="downloads" alt=""/>
-      <caption webpage="about-project" alt=""/>
-      <caption webpage="buy-failed" alt=""/>
-      <caption webpage="ancient-launcher" alt=""/>
       <caption webpage="information" alt=""/>
-      <caption webpage="новости-и-обновления-shellmessage" alt=""/>
       <caption webpage="shellmessage" alt=""/>
     </file>
-    <file name="steam.png" crc="51002536" ref="ancient-launcher:downloads:information:about-project:buy-failed:shellmessage:shellmessage-документация:новости-и-обновления-shellmessage">
+    <file name="steam.png" crc="51002536" ref="ancient-launcher:downloads:information:about-project:buy-failed:shellmessage:shellmessage-документация:новости-и-обновления-shellmessage:joronsupport">
+      <caption webpage="joronsupport" alt=""/>
+      <caption webpage="about-project" alt=""/>
+      <caption webpage="ancient-launcher" alt=""/>
+      <caption webpage="buy-failed" alt=""/>
+      <caption webpage="новости-и-обновления-shellmessage" alt=""/>
       <caption webpage="shellmessage-документация" alt=""/>
       <caption webpage="downloads" alt=""/>
-      <caption webpage="about-project" alt=""/>
-      <caption webpage="buy-failed" alt=""/>
-      <caption webpage="ancient-launcher" alt=""/>
       <caption webpage="information" alt=""/>
-      <caption webpage="новости-и-обновления-shellmessage" alt=""/>
       <caption webpage="shellmessage" alt=""/>
     </file>
-    <file name="curseforge.jpg" crc="3874056928" ref="ancient-launcher:downloads:information:about-project:buy-failed:shellmessage:shellmessage-документация:новости-и-обновления-shellmessage">
+    <file name="curseforge.jpg" crc="3874056928" ref="ancient-launcher:downloads:information:about-project:buy-failed:shellmessage:shellmessage-документация:новости-и-обновления-shellmessage:joronsupport">
+      <caption webpage="joronsupport" alt=""/>
+      <caption webpage="about-project" alt=""/>
+      <caption webpage="ancient-launcher" alt=""/>
+      <caption webpage="buy-failed" alt=""/>
+      <caption webpage="новости-и-обновления-shellmessage" alt=""/>
       <caption webpage="shellmessage-документация" alt=""/>
       <caption webpage="downloads" alt=""/>
-      <caption webpage="about-project" alt=""/>
-      <caption webpage="buy-failed" alt=""/>
-      <caption webpage="ancient-launcher" alt=""/>
       <caption webpage="information" alt=""/>
-      <caption webpage="новости-и-обновления-shellmessage" alt=""/>
       <caption webpage="shellmessage" alt=""/>
     </file>
     <file name="dirt.jpg" crc="329450632" ref="ancient-launcher:downloads:information:about-project:buy-failed">
-      <caption webpage="information" alt=""/>
-      <caption webpage="downloads" alt=""/>
       <caption webpage="about-project" alt=""/>
-      <caption webpage="buy-failed" alt=""/>
       <caption webpage="ancient-launcher" alt=""/>
+      <caption webpage="downloads" alt=""/>
+      <caption webpage="information" alt=""/>
+      <caption webpage="buy-failed" alt=""/>
     </file>
     <file name="logo-u1142.png" crc="3976578939" ref="downloads"/>
     <file name="logo-u1145.png" crc="3976578939" ref="information"/>
     <file name="logo-u1148.png" crc="3976578939" ref="about-project"/>
     <file name="dirt1.jpg" crc="3984302233" ref="buy-minecraft:minecraft:dungeons:legends:dungeons-ultimate:legends-ultimate:triple-bundle">
       <caption webpage="triple-bundle" alt=""/>
-      <caption webpage="dungeons-ultimate" alt=""/>
       <caption webpage="buy-minecraft" alt=""/>
-      <caption webpage="legends-ultimate" alt=""/>
       <caption webpage="dungeons" alt=""/>
       <caption webpage="legends" alt=""/>
       <caption webpage="minecraft" alt=""/>
+      <caption webpage="dungeons-ultimate" alt=""/>
+      <caption webpage="legends-ultimate" alt=""/>
     </file>
     <file name="logo-u1364.png" crc="5700724" ref="buy-minecraft"/>
     <file name="legends1.png" crc="74649940" ref="buy-minecraft">
@@ -252,8 +257,8 @@
     <file name="all1-u1845.png" crc="4111154416" ref="dungeons"/>
     <file name="all2-u1845-r.png" crc="279561174" ref="dungeons"/>
     <file name="bg_dungeons.jpg" crc="4068481424" ref="dungeons:dungeons-ultimate">
-      <caption webpage="dungeons-ultimate" alt=""/>
       <caption webpage="dungeons" alt=""/>
+      <caption webpage="dungeons-ultimate" alt=""/>
     </file>
     <file name="logo-u2031.png" crc="5700724" ref="legends"/>
     <file name="legends1-crop-u2010.png" crc="486899493" seo="true" ref="legends">
@@ -281,8 +286,8 @@
     <file name="all1-u2032.png" crc="4111154416" ref="legends"/>
     <file name="all2-u2032-r.png" crc="279561174" ref="legends"/>
     <file name="bg_legends.jpg" crc="4183843635" ref="legends:legends-ultimate">
-      <caption webpage="legends" alt=""/>
       <caption webpage="legends-ultimate" alt=""/>
+      <caption webpage="legends" alt=""/>
     </file>
     <file name="logo-u2398.png" crc="5700724" ref="dungeons-ultimate"/>
     <file name="dungeons1-crop-u2372.jpg" crc="467101515" seo="true" ref="dungeons-ultimate">
@@ -427,6 +432,22 @@
       <caption webpage="shellmessage" alt=""/>
     </file>
     <file name="u4245-4.png" crc="419381322" ref="новости-и-обновления-shellmessage"/>
+    <file name="joronsupport-favicon.ico" crc="4112846462" ref="joronsupport"/>
+    <file name="joron_classic_rem_v1m.jpg" crc="3802449734" ref="joronsupport">
+      <caption webpage="joronsupport" alt=""/>
+    </file>
+    <file name="x.jpg" crc="4269645571" ref="joronsupport">
+      <caption webpage="joronsupport" alt=""/>
+    </file>
+    <file name="facebook.png" crc="222114866" ref="joronsupport">
+      <caption webpage="joronsupport" alt=""/>
+    </file>
+    <file name="vk.jpg" crc="143186666" ref="joronsupport">
+      <caption webpage="joronsupport" alt=""/>
+    </file>
+    <file name="author_card_bg.jpg" crc="407424" ref="joronsupport">
+      <caption webpage="joronsupport" alt=""/>
+    </file>
   </folder>
   <file name="index.html" crc="33671948" seo="true" mt="1752659659938" redirect="false"/>
   <file name="ancient-launcher.html" crc="4179512832" seo="true" mt="1752678721284" redirect="true"/>
@@ -441,7 +462,8 @@
   <file name="legends-ultimate.html" crc="3989105005" seo="true" mt="1752659083129" redirect="true"/>
   <file name="triple-bundle.html" crc="233404379" seo="true" mt="1752664088362" redirect="true"/>
   <file name="buy-failed.html" crc="4133143145" seo="true" mt="1752660182691" redirect="true"/>
-  <file name="shellmessage.html" crc="75384522" seo="true" mt="1753350061387" redirect="true"/>
-  <file name="shellmessage-документация.html" crc="268535472" seo="true" mt="1753135686872" redirect="true"/>
-  <file name="новости-и-обновления-shellmessage.html" crc="207734062" seo="true" mt="1753136118866" redirect="true"/>
+  <file name="shellmessage.html" crc="4173835589" seo="true" mt="1753375062741" redirect="true"/>
+  <file name="shellmessage-документация.html" crc="3948292081" seo="true" mt="1753375088293" redirect="true"/>
+  <file name="новости-и-обновления-shellmessage.html" crc="4080541367" seo="true" mt="1753375074358" redirect="true"/>
+  <file name="joronsupport.html" crc="4125061794" seo="true" mt="1753375312404" redirect="true"/>
 </manifest>
