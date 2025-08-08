@@ -263,13 +263,19 @@
   </url>
   <url>
     <loc>http://joron.com/joronsupport.html</loc>
-    <lastmod>2025-07-24</lastmod>
+    <lastmod>2025-08-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://joron.com/shellmessage-news-and-updates.html</loc>
     <lastmod>2025-07-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://joron.com/joron-s-sourcetools.html</loc>
+    <lastmod>2025-08-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
