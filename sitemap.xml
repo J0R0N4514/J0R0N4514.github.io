@@ -2,50 +2,64 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://test.ru/index.html</loc>
-    <lastmod>2026-04-24</lastmod>
+    <lastmod>2026-05-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://test.ru/support.html</loc>
-    <lastmod>2026-04-24</lastmod>
+    <lastmod>2026-05-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://test.ru/phone/support.html"/>
   </url>
   <url>
     <loc>http://test.ru/pn-blog.html</loc>
-    <lastmod>2026-04-24</lastmod>
+    <lastmod>2026-05-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://test.ru/phone/pn-blog.html"/>
   </url>
   <url>
     <loc>http://test.ru/contacts.html</loc>
-    <lastmod>2026-04-24</lastmod>
+    <lastmod>2026-05-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://test.ru/phone/contacts.html"/>
   </url>
   <url>
     <loc>http://test.ru/information.html</loc>
-    <lastmod>2026-04-24</lastmod>
+    <lastmod>2026-05-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://test.ru/phone/information.html"/>
   </url>
   <url>
     <loc>http://test.ru/source-screenshots.html</loc>
-    <lastmod>2026-04-24</lastmod>
+    <lastmod>2026-05-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://test.ru/phone/source-screenshots.html"/>
   </url>
   <url>
     <loc>http://test.ru/projects.html</loc>
-    <lastmod>2026-04-24</lastmod>
+    <lastmod>2026-05-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://test.ru/phone/projects.html"/>
   </url>
   <url>
     <loc>http://test.ru/joronsupport.html</loc>
-    <lastmod>2026-04-24</lastmod>
+    <lastmod>2026-05-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://test.ru/phone/joronsupport.html"/>
+  </url>
+  <url>
+    <loc>http://test.ru/j0r0n-s-source-tools.html</loc>
+    <lastmod>2026-05-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://test.ru/phone/j0r0n-s-source-tools.html"/>
   </url>
 </urlset>
