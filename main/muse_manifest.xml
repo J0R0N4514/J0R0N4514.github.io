@@ -1,0 +1,199 @@
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="test.ru" resolutions="1x" timestamp="1795579997165">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="joronsupport.css" crc="480088778" ref="joronsupport"/>
+    <file name="source-screenshots.css" crc="173753540" ref="source-screenshots"/>
+    <file name="pn-blog.css" crc="406176298" ref="pn-blog"/>
+    <file name="projects.css" crc="4127086297" ref="projects"/>
+    <file name="information.css" crc="141156832" ref="information"/>
+    <file name="index.css" crc="144288943" ref="index"/>
+    <file name="contacts.css" crc="417409860" ref="contacts"/>
+    <file name="support.css" crc="3886219905" ref="support"/>
+    <file name="j0r0n-s-source-tools.css" crc="3809406223" ref="j0r0n-s-source-tools"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:phone>joronsupport:phone>support:phone>pn-blog:phone>contacts:phone>information:phone>source-screenshots:phone>projects:phone>j0r0n-s-source-tools:index:support:pn-blog:contacts:information:source-screenshots:projects:joronsupport:j0r0n-s-source-tools"/>
+    <file name="museutils.js" crc="3939489907" ref="phone>index:phone>joronsupport:phone>support:phone>pn-blog:phone>contacts:phone>information:phone>source-screenshots:phone>projects:phone>j0r0n-s-source-tools:index:support:pn-blog:contacts:information:source-screenshots:projects:joronsupport:j0r0n-s-source-tools"/>
+    <file name="whatinput.js" crc="86476730" ref="phone>index:phone>joronsupport:phone>support:phone>pn-blog:phone>contacts:phone>information:phone>source-screenshots:phone>projects:phone>j0r0n-s-source-tools:index:support:pn-blog:contacts:information:source-screenshots:projects:joronsupport:j0r0n-s-source-tools"/>
+    <file name="museconfig.js" crc="3936894949" ref="phone>index:phone>joronsupport:phone>support:phone>pn-blog:phone>contacts:phone>information:phone>source-screenshots:phone>projects:phone>j0r0n-s-source-tools:index:support:pn-blog:contacts:information:source-screenshots:projects:joronsupport:j0r0n-s-source-tools"/>
+    <file name="jquery.watch.js" crc="522499760" ref="phone>index:phone>joronsupport:phone>support:phone>pn-blog:phone>contacts:phone>information:phone>source-screenshots:phone>projects:phone>j0r0n-s-source-tools:index:support:pn-blog:contacts:information:source-screenshots:projects:joronsupport:j0r0n-s-source-tools"/>
+    <file name="require.js" crc="4177726516" ref="phone>index:phone>joronsupport:phone>support:phone>pn-blog:phone>contacts:phone>information:phone>source-screenshots:phone>projects:phone>j0r0n-s-source-tools:index:support:pn-blog:contacts:information:source-screenshots:projects:joronsupport:j0r0n-s-source-tools"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="85124417" ref="phone>joronsupport:index:support:pn-blog:contacts:information:source-screenshots:projects:joronsupport:j0r0n-s-source-tools"/>
+  </folder>
+  <folder name="images">
+    <file name="index-favicon.ico" crc="4014604376" ref="phone>index"/>
+    <file name="joronsupport-favicon.ico" crc="4014604376" ref="phone>joronsupport"/>
+    <file name="flag_rus.jpg" crc="19481394" ref="phone>joronsupport:index:joronsupport">
+      <caption webpage="index" alt=""/>
+      <caption webpage="joronsupport" alt=""/>
+      <caption webpage="joronsupport" alt=""/>
+    </file>
+    <file name="avatar_joron-u1752-fr.png" crc="3980305116" ref="phone>joronsupport"/>
+    <file name="flag_kaz.jpg" crc="50486838" ref="phone>joronsupport">
+      <caption webpage="joronsupport" alt=""/>
+    </file>
+    <file name="social_patreon-u1823-fr.jpg" crc="4076344921" ref="phone>joronsupport"/>
+    <file name="social_facebook-u1822.png" crc="212521031" ref="phone>joronsupport"/>
+    <file name="social_facebook-u1822-r.png" crc="265616177" ref="phone>joronsupport"/>
+    <file name="social_telegram-u1830-fr.jpg" crc="448716820" ref="phone>joronsupport"/>
+    <file name="social_youtube-u1829-fr.jpg" crc="185662647" ref="phone>joronsupport"/>
+    <file name="social_instagramm-u1828-fr.jpg" crc="445429231" ref="phone>joronsupport"/>
+    <file name="social_twitch-u1827-fr.jpg" crc="83928675" ref="phone>joronsupport"/>
+    <file name="social_tiktok-u1826-fr.jpg" crc="231690470" ref="phone>joronsupport"/>
+    <file name="social_x-u1825-fr.jpg" crc="353419949" ref="phone>joronsupport"/>
+    <file name="social_steam-u1824-fr.jpg" crc="4069554226" ref="phone>joronsupport"/>
+    <file name="support-favicon.ico" crc="4014604376" ref="phone>support"/>
+    <file name="logo_mini.png" crc="4088450834" ref="phone>support:phone>contacts:phone>information:phone>source-screenshots:phone>projects:phone>j0r0n-s-source-tools:index:support:pn-blog:contacts:information:source-screenshots:projects:joronsupport">
+      <caption webpage="source-screenshots" alt=""/>
+      <caption webpage="contacts" alt=""/>
+      <caption webpage="j0r0n-s-source-tools" alt=""/>
+      <caption webpage="support" alt=""/>
+      <caption webpage="projects" alt=""/>
+      <caption webpage="information" alt=""/>
+    </file>
+    <file name="sandwitch.png" crc="3786551148" ref="phone>support:phone>contacts:phone>information:phone>source-screenshots:phone>j0r0n-s-source-tools">
+      <caption webpage="source-screenshots" alt=""/>
+      <caption webpage="contacts" alt=""/>
+      <caption webpage="j0r0n-s-source-tools" alt=""/>
+      <caption webpage="support" alt=""/>
+      <caption webpage="information" alt=""/>
+    </file>
+    <file name="pn-blog-favicon.ico" crc="4014604376" ref="phone>pn-blog"/>
+    <file name="contacts-favicon.ico" crc="4014604376" ref="phone>contacts"/>
+    <file name="information-favicon.ico" crc="4014604376" ref="phone>information"/>
+    <file name="source-screenshots-favicon.ico" crc="4014604376" ref="phone>source-screenshots"/>
+    <file name="projects-favicon.ico" crc="4014604376" ref="phone>projects"/>
+    <file name="taco.png" crc="3803707735" ref="phone>projects">
+      <caption webpage="projects" alt=""/>
+    </file>
+    <file name="background_7.jpg" crc="3900890379" ref="phone>projects">
+      <caption webpage="projects" alt=""/>
+    </file>
+    <file name="j0r0n-s-source-tools-favicon.ico" crc="4014604376" ref="phone>j0r0n-s-source-tools"/>
+    <file name="avatar_joron.png" crc="273502170" ref="index:joronsupport">
+      <caption webpage="index" alt=""/>
+      <caption webpage="joronsupport" alt=""/>
+    </file>
+    <file name="social_boosty.jpg" crc="3952477425" ref="index:support:joronsupport">
+      <caption webpage="index" alt=""/>
+      <caption webpage="support" alt=""/>
+      <caption webpage="joronsupport" alt=""/>
+    </file>
+    <file name="social_patreon.jpg" crc="114540876" ref="index:support:joronsupport">
+      <caption webpage="index" alt=""/>
+      <caption webpage="support" alt=""/>
+      <caption webpage="joronsupport" alt=""/>
+    </file>
+    <file name="social_youtube.jpg" crc="4117299128" ref="index:joronsupport">
+      <caption webpage="index" alt=""/>
+      <caption webpage="joronsupport" alt=""/>
+    </file>
+    <file name="social_twitch.jpg" crc="276782796" ref="index:joronsupport">
+      <caption webpage="index" alt=""/>
+      <caption webpage="joronsupport" alt=""/>
+    </file>
+    <file name="social_instagramm.jpg" crc="273721567" ref="index:joronsupport">
+      <caption webpage="index" alt=""/>
+      <caption webpage="joronsupport" alt=""/>
+    </file>
+    <file name="social_tiktok.jpg" crc="419038477" ref="index:joronsupport">
+      <caption webpage="index" alt=""/>
+      <caption webpage="joronsupport" alt=""/>
+    </file>
+    <file name="social_x.jpg" crc="23150323" ref="index:joronsupport">
+      <caption webpage="index" alt=""/>
+      <caption webpage="joronsupport" alt=""/>
+    </file>
+    <file name="social_telegram.jpg" crc="4282935209" ref="index:contacts:joronsupport">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="contacts" alt=""/>
+      <caption webpage="joronsupport" alt=""/>
+      <caption webpage="joronsupport" alt=""/>
+    </file>
+    <file name="social_discord.jpg" crc="4112220902" ref="index:contacts:joronsupport">
+      <caption webpage="index" alt=""/>
+      <caption webpage="contacts" alt=""/>
+      <caption webpage="joronsupport" alt=""/>
+    </file>
+    <file name="social_vk.jpg" crc="4267744326" ref="index:contacts:joronsupport">
+      <caption webpage="index" alt=""/>
+      <caption webpage="contacts" alt=""/>
+      <caption webpage="joronsupport" alt=""/>
+    </file>
+    <file name="social_steam.jpg" crc="3833615876" ref="index:contacts:joronsupport">
+      <caption webpage="index" alt=""/>
+      <caption webpage="contacts" alt=""/>
+      <caption webpage="joronsupport" alt=""/>
+    </file>
+    <file name="social_curseforge.jpg" crc="4039269346" ref="index:joronsupport">
+      <caption webpage="index" alt=""/>
+      <caption webpage="joronsupport" alt=""/>
+    </file>
+    <file name="social_github.jpg" crc="4215628887" ref="index:joronsupport">
+      <caption webpage="index" alt=""/>
+      <caption webpage="joronsupport" alt=""/>
+    </file>
+    <file name="social_facebook-u434.png" crc="208853224" ref="index"/>
+    <file name="social_facebook-u434-r.png" crc="3829162992" ref="index"/>
+    <file name="logo_mini_lighting.png" crc="3955073021" ref="index:support:pn-blog:contacts:information:source-screenshots:projects:joronsupport">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="background_buttom.jpg" crc="3969380244" ref="index:support:pn-blog:contacts:information:source-screenshots:joronsupport">
+      <caption webpage="contacts" alt=""/>
+      <caption webpage="joronsupport" alt=""/>
+      <caption webpage="support" alt=""/>
+      <caption webpage="source-screenshots" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="pn-blog" alt=""/>
+      <caption webpage="information" alt=""/>
+    </file>
+    <file name="payicon_bitcoin.jpg" crc="3802511276" ref="support">
+      <caption webpage="support" alt=""/>
+    </file>
+    <file name="background_black_loop.jpg" crc="463909750" ref="projects">
+      <caption webpage="projects" alt=""/>
+    </file>
+    <file name="social_facebook-u1534.png" crc="208853224" ref="joronsupport"/>
+    <file name="social_facebook-u1534-r.png" crc="3829162992" ref="joronsupport"/>
+    <file name="warning-u2235.png" crc="3814702316" ref="j0r0n-s-source-tools"/>
+    <file name="icon-u2191.png" crc="4114233858" ref="j0r0n-s-source-tools"/>
+    <file name="vtf2decompiler-u2201.png" crc="4001447941" ref="j0r0n-s-source-tools"/>
+    <file name="igrconf-u2210.png" crc="3830883226" ref="j0r0n-s-source-tools"/>
+    <file name="cfg-u2219.png" crc="4185828136" ref="j0r0n-s-source-tools"/>
+    <file name="vdf_builder.png" crc="3839364038" ref="j0r0n-s-source-tools">
+      <caption webpage="j0r0n-s-source-tools" alt=""/>
+    </file>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="index.css" crc="62426684" ref="phone>index"/>
+      <file name="joronsupport.css" crc="430423193" ref="phone>joronsupport"/>
+      <file name="contacts.css" crc="394609826" ref="phone>contacts"/>
+      <file name="j0r0n-s-source-tools.css" crc="185383666" ref="phone>j0r0n-s-source-tools"/>
+      <file name="support.css" crc="415357057" ref="phone>support"/>
+      <file name="information.css" crc="4017719049" ref="phone>information"/>
+      <file name="pn-blog.css" crc="3933242570" ref="phone>pn-blog"/>
+      <file name="projects.css" crc="4287134966" ref="phone>projects"/>
+      <file name="source-screenshots.css" crc="3910794661" ref="phone>source-screenshots"/>
+    </folder>
+    <file name="index.html" crc="349347620" seo="true" mt="1777757558023" redirect="false"/>
+    <file name="joronsupport.html" crc="101069811" seo="true" mt="1779653479663" redirect="true"/>
+    <file name="support.html" crc="4255170587" seo="true" mt="1777759964680" redirect="true"/>
+    <file name="pn-blog.html" crc="342559971" seo="true" mt="1777759090711" redirect="true"/>
+    <file name="contacts.html" crc="102920875" seo="true" mt="1777759987928" redirect="true"/>
+    <file name="information.html" crc="129782557" seo="true" mt="1777759999669" redirect="true"/>
+    <file name="source-screenshots.html" crc="143489739" seo="true" mt="1777760010319" redirect="true"/>
+    <file name="projects.html" crc="4011229606" seo="true" mt="1777760354537" redirect="true"/>
+    <file name="j0r0n-s-source-tools.html" crc="4266275829" seo="true" mt="1779548028306" redirect="true"/>
+  </folder>
+  <file name="index.html" crc="380038432" seo="true" mt="1779653479677" redirect="true"/>
+  <file name="support.html" crc="39830348" seo="true" mt="1777757558827" redirect="true"/>
+  <file name="pn-blog.html" crc="281640857" seo="true" mt="1795575842639" redirect="true"/>
+  <file name="contacts.html" crc="4146593429" seo="true" mt="1777757558972" redirect="true"/>
+  <file name="information.html" crc="3814944759" seo="true" mt="1777757559056" redirect="true"/>
+  <file name="source-screenshots.html" crc="4014930245" seo="true" mt="1777757559107" redirect="true"/>
+  <file name="projects.html" crc="3875615892" seo="true" mt="1777757559181" redirect="true"/>
+  <file name="joronsupport.html" crc="4006969466" seo="true" mt="1795579518360" redirect="true"/>
+  <file name="j0r0n-s-source-tools.html" crc="88586471" seo="true" mt="1779653480495" redirect="true"/>
+</manifest>
