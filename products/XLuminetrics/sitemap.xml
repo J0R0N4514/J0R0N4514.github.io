@@ -5,6 +5,7 @@
     <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://xluminetrics.com/phone/index.html"/>
     <image:image>
       <image:loc>http://xluminetrics.com/images/screen01.jpg</image:loc>
     </image:image>
@@ -20,35 +21,41 @@
     <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://xluminetrics.com/phone/downloads.html"/>
   </url>
   <url>
     <loc>http://xluminetrics.com/news.html</loc>
     <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://xluminetrics.com/phone/news.html"/>
   </url>
   <url>
     <loc>http://xluminetrics.com/contacts.html</loc>
     <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://xluminetrics.com/phone/contacts.html"/>
   </url>
   <url>
     <loc>http://xluminetrics.com/donate.html</loc>
     <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://xluminetrics.com/phone/donate.html"/>
   </url>
   <url>
     <loc>http://xluminetrics.com/about.html</loc>
     <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://xluminetrics.com/phone/about.html"/>
   </url>
   <url>
     <loc>http://xluminetrics.com/documentation.html</loc>
     <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://xluminetrics.com/phone/documentation.html"/>
   </url>
 </urlset>

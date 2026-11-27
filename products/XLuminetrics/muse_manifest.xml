@@ -1,4 +1,22 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="xluminetrics.com" resolutions="1x" timestamp="1795739823906">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="xluminetrics.com" resolutions="1x" timestamp="1795763338858">
+  <folder name="phone">
+    <folder name="css">
+      <file name="donate.css" crc="1014880" ref="phone>donate"/>
+      <file name="index.css" crc="510459710" ref="phone>index"/>
+      <file name="about.css" crc="33928730" ref="phone>about"/>
+      <file name="documentation.css" crc="4120143181" ref="phone>documentation"/>
+      <file name="downloads.css" crc="252490023" ref="phone>downloads"/>
+      <file name="news.css" crc="411180138" ref="phone>news"/>
+      <file name="contacts.css" crc="531119665" ref="phone>contacts"/>
+    </folder>
+    <file name="index.html" crc="46112165" seo="true" mt="1795763324339" redirect="true"/>
+    <file name="downloads.html" crc="4147459888" seo="true" mt="1795762864044" redirect="true"/>
+    <file name="news.html" crc="45201010" seo="true" mt="1795763246613" redirect="true"/>
+    <file name="documentation.html" crc="397103472" seo="true" mt="1795763083856" redirect="true"/>
+    <file name="about.html" crc="430939199" seo="true" mt="1795762892430" redirect="true"/>
+    <file name="donate.html" crc="4197291817" seo="true" mt="1795763000930" redirect="true"/>
+    <file name="contacts.html" crc="3910130125" seo="true" mt="1795763324335" redirect="true"/>
+  </folder>
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="index.css" crc="54457479" ref="index"/>
@@ -10,20 +28,20 @@
     <file name="about.css" crc="318552891" ref="about"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:downloads:news:contacts:donate:about:documentation"/>
-    <file name="museutils.js" crc="3939489907" ref="index:downloads:news:contacts:donate:about:documentation"/>
-    <file name="whatinput.js" crc="86476730" ref="index:downloads:news:contacts:donate:about:documentation"/>
-    <file name="museconfig.js" crc="3936894949" ref="index:downloads:news:contacts:donate:about:documentation"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="85124417" ref="index:downloads:about"/>
-    <file name="jquery.watch.js" crc="522499760" ref="index:downloads:news:contacts:donate:about:documentation"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:downloads:news:contacts:donate:about:documentation:phone>index:phone>downloads:phone>news:phone>documentation:phone>about:phone>donate:phone>contacts"/>
+    <file name="museutils.js" crc="3939489907" ref="index:downloads:news:contacts:donate:about:documentation:phone>index:phone>downloads:phone>news:phone>documentation:phone>about:phone>donate:phone>contacts"/>
+    <file name="whatinput.js" crc="86476730" ref="index:downloads:news:contacts:donate:about:documentation:phone>index:phone>downloads:phone>news:phone>documentation:phone>about:phone>donate:phone>contacts"/>
+    <file name="museconfig.js" crc="3936894949" ref="index:downloads:news:contacts:donate:about:documentation:phone>index:phone>downloads:phone>news:phone>documentation:phone>about:phone>donate:phone>contacts"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="85124417" ref="index:downloads:about:phone>index:phone>downloads:phone>documentation:phone>about:phone>donate:phone>contacts"/>
+    <file name="jquery.watch.js" crc="522499760" ref="index:downloads:news:contacts:donate:about:documentation:phone>index:phone>downloads:phone>news:phone>documentation:phone>about:phone>donate:phone>contacts"/>
     <file name="webpro.js" crc="3856315280" ref="index"/>
     <file name="musewpslideshow.js" crc="244150766" ref="index"/>
     <file name="jquery.museoverlay.js" crc="3877667098" ref="index"/>
     <file name="touchswipe.js" crc="3888935200" ref="index"/>
-    <file name="require.js" crc="4177726516" ref="index:downloads:news:contacts:donate:about:documentation"/>
+    <file name="require.js" crc="4177726516" ref="index:downloads:news:contacts:donate:about:documentation:phone>index:phone>downloads:phone>news:phone>documentation:phone>about:phone>donate:phone>contacts"/>
   </folder>
   <folder name="images">
-    <file name="favicon.ico" crc="4159490092" ref="index"/>
+    <file name="favicon.ico" crc="4159490092" ref="phone>index"/>
     <file name="preview.png" crc="337074346" ref="index:downloads:about">
       <caption webpage="index" alt=""/>
       <caption webpage="downloads" alt=""/>
@@ -34,7 +52,21 @@
       <caption webpage="downloads" alt=""/>
       <caption webpage="about" alt=""/>
     </file>
-    <file name="borderline.jpg" crc="530738740" ref="index:downloads:news:contacts:donate:about:documentation">
+    <file name="borderline.jpg" crc="530738740" ref="index:downloads:news:contacts:donate:about:documentation:phone>index:phone>downloads:phone>news:phone>documentation:phone>about:phone>donate:phone>contacts">
+      <caption webpage="documentation" alt=""/>
+      <caption webpage="documentation" alt=""/>
+      <caption webpage="documentation" alt="ERROR"/>
+      <caption webpage="downloads" alt=""/>
+      <caption webpage="downloads" alt=""/>
+      <caption webpage="downloads" alt="Download-links:"/>
+      <caption webpage="downloads" alt=""/>
+      <caption webpage="news" alt=""/>
+      <caption webpage="news" alt="27.11.2026"/>
+      <caption webpage="news" alt="08.03.2026"/>
+      <caption webpage="news" alt=""/>
+      <caption webpage="news" alt="27.11.2026"/>
+      <caption webpage="news" alt="08.03.2026"/>
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt="Скриншоты игр, созданных на движке:"/>
       <caption webpage="index" alt="Первый скриншот. Временное изображение с Alpha версии"/>
@@ -43,34 +75,47 @@
       <caption webpage="index" alt="&lt;"/>
       <caption webpage="index" alt="3 - 3"/>
       <caption webpage="index" alt=">"/>
-      <caption webpage="downloads" alt=""/>
-      <caption webpage="downloads" alt="Download-links:"/>
-      <caption webpage="downloads" alt=""/>
-      <caption webpage="news" alt=""/>
-      <caption webpage="news" alt="27.11.2026"/>
-      <caption webpage="news" alt="08.03.2026"/>
-      <caption webpage="documentation" alt=""/>
-      <caption webpage="documentation" alt="ERROR"/>
       <caption webpage="contacts" alt=""/>
+      <caption webpage="contacts" alt=""/>
+      <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt="ABOUT PROJECT:"/>
       <caption webpage="donate" alt=""/>
       <caption webpage="donate" alt="WORLD (CLASSIC)"/>
       <caption webpage="donate" alt="РОССИЯ (RUSSIA / IRAN)"/>
       <caption webpage="donate" alt="CRYPTO (BTC)"/>
+      <caption webpage="donate" alt=""/>
+      <caption webpage="donate" alt="WORLD (CLASSIC)"/>
+      <caption webpage="donate" alt="РОССИЯ (RUSSIA / IRAN)"/>
+      <caption webpage="donate" alt="CRYPTO (BTC)"/>
     </file>
-    <file name="blank.jpg" crc="432683" ref="index:downloads:news:contacts:donate:about:documentation">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
+    <file name="blank.jpg" crc="432683" ref="index:downloads:news:contacts:donate:about:documentation:phone>index:phone>downloads:phone>news:phone>documentation:phone>about:phone>donate:phone>contacts">
+      <caption webpage="documentation" alt=""/>
+      <caption webpage="documentation" alt="Документация временно не доступна. Она обязателььно появится здесь, когда проект будет официалььно запущен и открыт."/>
+      <caption webpage="downloads" alt=""/>
       <caption webpage="downloads" alt=""/>
       <caption webpage="downloads" alt=""/>
       <caption webpage="news" alt=""/>
       <caption webpage="news" alt="Разработка длится в штатном режиме. Создан собственный веб-сайт проекта. На главной странице доступны временные скриншоты одной из игр прототипов. Установка проекта пока что, временно не досупна, всвязи с продолжающейся разработкой."/>
       <caption webpage="news" alt="Началась разработка проекта X-Luminetrics"/>
-      <caption webpage="documentation" alt="Документация временно не доступна. Она обязателььно появится здесь, когда проект будет официалььно запущен и открыт."/>
+      <caption webpage="news" alt=""/>
+      <caption webpage="news" alt="Разработка длится в штатном режиме. Создан собственный веб-сайт проекта. На главной странице доступны временные скриншоты одной из игр прототипов. Установка проекта пока что, временно не досупна, всвязи с продолжающейся разработкой."/>
+      <caption webpage="news" alt="Началась разработка проекта X-Luminetrics"/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="contacts" alt=""/>
+      <caption webpage="contacts" alt=""/>
+      <caption webpage="about" alt=""/>
       <caption webpage="about" alt="X-Luminetrics Game engine - Это базовый готовый фундамент и готовая к использованию основа для создания видео игр. X-Luminetrics использует язык программирования Python и разработан для создания игр на Ursina + Panda3D. Он предоставляет базовые энтити, готовый загрузчик уровней, инструментарий для разработки игр, встроенный редактор уровней, подготовленный к использованию физический движок (Аналогичный Bullet) и все необходимые для разработки базовые основы (Триггеры, Кнопки, Физические пропы, интерактивные объекты, возможность взаимодействия с окружением через Use() команды, функции для работы, системы частиц и так далее) а так же стартовый бесплатный набор игровых ресурсов - Звуки, модели, текстуры. Данный набор игровых ресурсов и инструментарий расчитаны в первую очередь для разработки 3D игр. Однако при должнем желании вы можете попробовать интегрировать и доработать инструментарий на работу с 2D играми. Но корректная работа в таком случае не гарантируется. Мы так же предоставляем вам Оффлайн документацию в Архив, который вы будете устанавливать. А так же, на этом сайте вам доступна онлайн документация для актуальной версии игры, или версии, актуальной для обновления. Помимо этого, вы можете смотреть видео-уроки на YouTube. Так же в комплект входит Компилятор игры. После завершения разработки, воспользовавшись им, вы получите готовый результат игры. Которая будет готова к дистрибуции/распространению в сети или дальнейшей публикации. Вы не обязаны публиковать Уведомление или указывать в Титрах что игра была разработана с помощью X-Luminetrics. Однако это остается на вашей совести и это ваш выбор. Так же вы не обязаны платить за использование данного ПО и после релиза Вносить в оплату проценты с продаж. Проект некоммерческий, и развивается благодаря сообществу и поддержкой донатом. "/>
+      <caption webpage="donate" alt=""/>
+      <caption webpage="donate" alt=""/>
+      <caption webpage="donate" alt="FOR EVERYONE. FROM EVERHERE"/>
+      <caption webpage="donate" alt=""/>
+      <caption webpage="donate" alt="Переводы по карте мир (МИР / MIR-PAY). Перевод по номеру карты"/>
+      <caption webpage="donate" alt=""/>
+      <caption webpage="donate" alt="Transfer adress (Select and Copy)"/>
       <caption webpage="donate" alt=""/>
       <caption webpage="donate" alt="FOR EVERYONE. FROM EVERHERE"/>
       <caption webpage="donate" alt="Переводы по карте мир (МИР / MIR-PAY). Перевод по номеру карты"/>
@@ -93,10 +138,10 @@
     </file>
     <file name="loading.gif" crc="3815509949" ref="index"/>
     <file name="logo.jpg" crc="267299809" ref="index:downloads:news:contacts:donate:about:documentation">
-      <caption webpage="index" alt=""/>
+      <caption webpage="documentation" alt=""/>
       <caption webpage="downloads" alt=""/>
       <caption webpage="news" alt=""/>
-      <caption webpage="documentation" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="contacts" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="donate" alt=""/>
@@ -104,30 +149,47 @@
     <file name="simple_windows-u621.png" crc="4227795120" ref="downloads"/>
     <file name="simple_apple-u627.png" crc="20846016" ref="downloads"/>
     <file name="simple_linux-u609.png" crc="396752716" ref="downloads"/>
-    <file name="line.jpg" crc="452617752" ref="news:contacts:donate:about:documentation">
+    <file name="line.jpg" crc="452617752" ref="news:contacts:donate:about:documentation:phone>news:phone>donate:phone>contacts">
       <caption webpage="documentation" alt=""/>
       <caption webpage="documentation" alt=""/>
-      <caption webpage="news" alt=""/>
-      <caption webpage="news" alt=""/>
-      <caption webpage="news" alt=""/>
-      <caption webpage="news" alt=""/>
+      <caption webpage="donate" alt=""/>
+      <caption webpage="donate" alt=""/>
+      <caption webpage="donate" alt=""/>
+      <caption webpage="donate" alt=""/>
+      <caption webpage="donate" alt=""/>
+      <caption webpage="donate" alt=""/>
+      <caption webpage="donate" alt=""/>
+      <caption webpage="donate" alt=""/>
+      <caption webpage="donate" alt=""/>
+      <caption webpage="donate" alt=""/>
+      <caption webpage="donate" alt=""/>
+      <caption webpage="donate" alt=""/>
       <caption webpage="contacts" alt=""/>
       <caption webpage="contacts" alt=""/>
+      <caption webpage="contacts" alt=""/>
+      <caption webpage="contacts" alt=""/>
+      <caption webpage="news" alt=""/>
+      <caption webpage="news" alt=""/>
+      <caption webpage="news" alt=""/>
+      <caption webpage="news" alt=""/>
+      <caption webpage="news" alt=""/>
+      <caption webpage="news" alt=""/>
+      <caption webpage="news" alt=""/>
+      <caption webpage="news" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
-      <caption webpage="donate" alt=""/>
-      <caption webpage="donate" alt=""/>
-      <caption webpage="donate" alt=""/>
-      <caption webpage="donate" alt=""/>
-      <caption webpage="donate" alt=""/>
-      <caption webpage="donate" alt=""/>
     </file>
+    <file name="preview-u1416-fr.png" crc="184197688" ref="phone>index:phone>downloads:phone>documentation:phone>about:phone>donate:phone>contacts"/>
+    <file name="preview2-u1416-r-fr.png" crc="3847486478" ref="phone>index:phone>downloads:phone>documentation:phone>about:phone>donate:phone>contacts"/>
+    <file name="background.jpg" crc="3859696518" ref="phone>index:phone>contacts"/>
+    <file name="logo-u1504-fr.jpg" crc="110385306" ref="phone>index:phone>contacts"/>
+    <file name="logo-u2036-fr.jpg" crc="90797192" ref="phone>donate"/>
   </folder>
-  <file name="index.html" crc="3790850483" seo="true" mt="1795739805556" redirect="true"/>
-  <file name="downloads.html" crc="3884529749" seo="true" mt="1795739737205" redirect="true"/>
-  <file name="news.html" crc="3912145684" seo="true" mt="1795737385848" redirect="true"/>
-  <file name="contacts.html" crc="3828717973" seo="true" mt="1795739620758" redirect="true"/>
-  <file name="donate.html" crc="4094287657" seo="true" mt="1795739241034" redirect="true"/>
-  <file name="about.html" crc="4251474717" seo="true" mt="1795737502440" redirect="true"/>
-  <file name="documentation.html" crc="392686070" seo="true" mt="1795737534596" redirect="true"/>
+  <file name="index.html" crc="3777096795" seo="true" mt="1795759609760" redirect="true"/>
+  <file name="downloads.html" crc="4268128857" seo="true" mt="1795759609802" redirect="true"/>
+  <file name="news.html" crc="3893734797" seo="true" mt="1795759609847" redirect="true"/>
+  <file name="contacts.html" crc="4020944741" seo="true" mt="1795759610013" redirect="true"/>
+  <file name="donate.html" crc="524341073" seo="true" mt="1795759609971" redirect="true"/>
+  <file name="about.html" crc="3829887790" seo="true" mt="1795759609930" redirect="true"/>
+  <file name="documentation.html" crc="316247558" seo="true" mt="1795759609889" redirect="true"/>
 </manifest>

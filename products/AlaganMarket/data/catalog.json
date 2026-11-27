@@ -73,6 +73,39 @@
           "file": "catalog/Игры/Minecraft/John Doe/Minecraft_Pocket_Edition_1.0.9.1.apk"
         }
       ]
+    },
+    {
+      "id": "xluminetrics",
+      "category": "Игры",
+      "name": "XLuminetrics",
+      "short": "Это игровой движок созданный для разработки игр на Python, доступный на всех операционных системах поддерживающих этот язык программирования.",
+      "description": "X-Luminetrcis - Набор готовых игровых ассетов и инструментария.\n\nЭто игровой движок созданный для разработки игр на Python, доступный на всех операционных системах поддерживающих этот язык программирования.\n\n \n\nДвижок основан и работает на библиотеке \"Ursina\" и \"Panda3D\".\n\nПоэтому вы можете использовать помимо собственной еще и официальную и стороннюю документацию по этим объектам.\n\n \n\nМы так же установили комментарии в коде игры, для удобства вашей работы и несколько файлов offline документации для вашего удобства и некоторых быстрых шпаргалок.\n\n \n\nВ комплект поставляются:\n\n - Набор базовых энтити\n\n - Базовый набор моделей\n\n - Базовый комплект текстур\n\n - Базовые пакет звуков\n\n - Редактор уровней\n\n - Уже готовая база для разработки игр\n\n - Компилятор игры\n\n - Физический движок\n\n- Собственная система освещения и работа со светом",
+      "version": "",
+      "icon": "catalog/Игры/XLuminetrics/preview.png",
+      "header": "catalog/Игры/XLuminetrics/header.png",
+      "screenshots": [
+        "catalog/Игры/XLuminetrics/screen-01.png",
+        "catalog/Игры/XLuminetrics/screen-02.png",
+        "catalog/Игры/XLuminetrics/screen-03.png"
+      ],
+      "vendors": [
+        {
+          "name": "J0R0N",
+          "avatar": "accounts/J0R0N/avatar.png",
+          "telegram_username": "J0R0N",
+          "telegram_user_id": "5758012030",
+          "version": "0.0",
+          "file": "catalog/Игры/XLuminetrics/J0R0N/Minecraft_Pocket_Edition_1.0.9.1.apk"
+        },
+        {
+          "name": "John Doe",
+          "avatar": "accounts/John Doe/avatar.png",
+          "telegram_username": "john_doe",
+          "telegram_user_id": "",
+          "version": "1.0",
+          "file": "catalog/Игры/XLuminetrics/John Doe/Minecraft_Pocket_Edition_1.0.9.1.apk"
+        }
+      ]
     }
   ]
 }
