@@ -41,14 +41,14 @@
         {
           "name": "J0R0N",
           "avatar": "accounts/J0R0N/avatar.png",
-          "telegram_username": "J0R0N",
+          "telegram_username": "@J0R0N",
           "version": "0.0",
           "file": "catalog/Игры/Minecraft/J0R0N/Minecraft_Pocket_Edition_1.0.9.1.apk"
         },
         {
-          "name": "J0R0N",
-          "avatar": "accounts/J0R0N/avatar.png",
-          "telegram_username": "J0R0N",
+          "name": "John Doe",
+          "avatar": "accounts/John Doe/avatar.png",
+          "telegram_username": "john_doe",
           "version": "1.0",
           "file": "catalog/Игры/Minecraft/John Doe/Minecraft_Pocket_Edition_1.0.9.1.apk"
         }
