@@ -1,0 +1,65 @@
+{
+  "version": 2,
+  "categories": [
+    {
+      "name": "Игры",
+      "icon": "catalog/Игры/preview.png"
+    },
+    {
+      "name": "Инструменты",
+      "icon": "catalog/Инструменты/preview.png"
+    },
+    {
+      "name": "Навигация",
+      "icon": "catalog/Навигация/preview.png"
+    },
+    {
+      "name": "Приложения",
+      "icon": "catalog/Приложения/preview.png"
+    },
+    {
+      "name": "Проигрыватели",
+      "icon": "catalog/Проигрыватели/preview.png"
+    }
+  ],
+  "apps": [
+    {
+      "id": "minecraft",
+      "category": "Игры",
+      "name": "Minecraft",
+      "short": "Инструменты и дополнения для Minecraft",
+      "description": "Здесь будет подробное описание CopTech Tools.",
+      "version": "",
+      "icon": "catalog/Игры/Minecraft/preview.png",
+      "header": "catalog/Игры/Minecraft/header.png",
+      "screenshots": [
+        "catalog/Игры/Minecraft/screen-01.png",
+        "catalog/Игры/Minecraft/screen-02.png",
+        "catalog/Игры/Minecraft/screen-03.png"
+      ],
+      "vendors": [
+        {
+          "name": "Exampler",
+          "avatar": "",
+          "telegram_username": "",
+          "version": "",
+          "file": "catalog/Игры/Minecraft/Exampler/Minecraft_Pocket_Edition_1.0.9.1.apk"
+        },
+        {
+          "name": "John Doe",
+          "avatar": "accounts/John Doe/avatar.png",
+          "telegram_username": "john_doe",
+          "version": "1.0",
+          "file": "catalog/Игры/Minecraft/John Doe/Minecraft_Pocket_Edition_1.0.9.1.apk"
+        },
+        {
+          "name": "Joron",
+          "avatar": "",
+          "telegram_username": "",
+          "version": "",
+          "file": "catalog/Игры/Minecraft/Joron/Minecraft_Pocket_Edition_1.0.9.1.apk"
+        }
+      ]
+    }
+  ]
+}
