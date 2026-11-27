@@ -104,3 +104,4 @@ if CAT.exists():
     encoding="utf-8"
 )
 print(f"Готово: {len(categories)} категорий, {len(apps)} приложений, {len(suppliers)} поставщиков")
+e = input("press to close")
