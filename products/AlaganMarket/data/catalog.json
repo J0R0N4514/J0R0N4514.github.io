@@ -27,8 +27,8 @@
       "id": "minecraft",
       "category": "Игры",
       "name": "Minecraft",
-      "short": "Инструменты и дополнения для Minecraft",
-      "description": "Здесь будет подробное описание CopTech Tools.",
+      "short": "Minecraft - выживание в песочнице.",
+      "description": "Minecraft:\nкомпьютерная игра в жанре песочницы, где игрок исследует и изменяет процедурно генерируемый трёхмерный мир, полностью состоящий из кубов. Позволяет свободно строить, добывать ресурсы, сражаться с противниками и выполнять другие действия.",
       "version": "",
       "icon": "catalog/Игры/Minecraft/preview.png",
       "header": "catalog/Игры/Minecraft/header.png",
@@ -39,25 +39,18 @@
       ],
       "vendors": [
         {
-          "name": "Exampler",
-          "avatar": "",
-          "telegram_username": "",
-          "version": "",
-          "file": "catalog/Игры/Minecraft/Exampler/Minecraft_Pocket_Edition_1.0.9.1.apk"
+          "name": "J0R0N",
+          "avatar": "accounts/J0R0N/avatar.png",
+          "telegram_username": "J0R0N",
+          "version": "0.0",
+          "file": "catalog/Игры/Minecraft/J0R0N/Minecraft_Pocket_Edition_1.0.9.1.apk"
         },
         {
-          "name": "John Doe",
-          "avatar": "accounts/John Doe/avatar.png",
-          "telegram_username": "john_doe",
+          "name": "J0R0N",
+          "avatar": "accounts/J0R0N/avatar.png",
+          "telegram_username": "J0R0N",
           "version": "1.0",
           "file": "catalog/Игры/Minecraft/John Doe/Minecraft_Pocket_Edition_1.0.9.1.apk"
-        },
-        {
-          "name": "Joron",
-          "avatar": "",
-          "telegram_username": "",
-          "version": "",
-          "file": "catalog/Игры/Minecraft/Joron/Minecraft_Pocket_Edition_1.0.9.1.apk"
         }
       ]
     }
