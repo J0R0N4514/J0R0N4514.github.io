@@ -1,5 +1,5 @@
 {
-  "version": 2,
+  "version": 3,
   "categories": [
     {
       "name": "Игры",
@@ -22,12 +22,30 @@
       "icon": "catalog/Проигрыватели/preview.png"
     }
   ],
+  "suppliers": [
+    {
+      "folder": "J0R0N",
+      "display_name": "J0R0N",
+      "telegram_username": "J0R0N",
+      "telegram_user_id": "5758012030",
+      "avatar": "accounts/J0R0N/avatar.png",
+      "version": "0.0"
+    },
+    {
+      "folder": "John Doe",
+      "display_name": "John Doe",
+      "telegram_username": "john_doe",
+      "telegram_user_id": "",
+      "avatar": "accounts/John Doe/avatar.png",
+      "version": "1.0"
+    }
+  ],
   "apps": [
     {
       "id": "minecraft",
       "category": "Игры",
       "name": "Minecraft",
-      "short": "Minecraft - выживание в песочнице.",
+      "short": "Пример отображения мода/игры",
       "description": "Minecraft:\nкомпьютерная игра в жанре песочницы, где игрок исследует и изменяет процедурно генерируемый трёхмерный мир, полностью состоящий из кубов. Позволяет свободно строить, добывать ресурсы, сражаться с противниками и выполнять другие действия.",
       "version": "",
       "icon": "catalog/Игры/Minecraft/preview.png",
@@ -41,7 +59,8 @@
         {
           "name": "J0R0N",
           "avatar": "accounts/J0R0N/avatar.png",
-          "telegram_username": "@J0R0N",
+          "telegram_username": "J0R0N",
+          "telegram_user_id": "5758012030",
           "version": "0.0",
           "file": "catalog/Игры/Minecraft/J0R0N/Minecraft_Pocket_Edition_1.0.9.1.apk"
         },
@@ -49,6 +68,7 @@
           "name": "John Doe",
           "avatar": "accounts/John Doe/avatar.png",
           "telegram_username": "john_doe",
+          "telegram_user_id": "",
           "version": "1.0",
           "file": "catalog/Игры/Minecraft/John Doe/Minecraft_Pocket_Edition_1.0.9.1.apk"
         }
