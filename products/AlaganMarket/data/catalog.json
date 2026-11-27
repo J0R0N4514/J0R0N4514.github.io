@@ -1,5 +1,5 @@
 {
-  "version": 3,
+  "version": 2,
   "categories": [
     {
       "name": "Игры",
@@ -10,34 +10,8 @@
       "icon": "catalog/Инструменты/preview.png"
     },
     {
-      "name": "Навигация",
-      "icon": "catalog/Навигация/preview.png"
-    },
-    {
       "name": "Приложения",
       "icon": "catalog/Приложения/preview.png"
-    },
-    {
-      "name": "Проигрыватели",
-      "icon": "catalog/Проигрыватели/preview.png"
-    }
-  ],
-  "suppliers": [
-    {
-      "folder": "J0R0N",
-      "display_name": "J0R0N",
-      "telegram_username": "J0R0N",
-      "telegram_user_id": "5758012030",
-      "avatar": "accounts/J0R0N/avatar.png",
-      "version": "0.0"
-    },
-    {
-      "folder": "John Doe",
-      "display_name": "John Doe",
-      "telegram_username": "john_doe",
-      "telegram_user_id": "",
-      "avatar": "accounts/John Doe/avatar.png",
-      "version": "1.0"
     }
   ],
   "apps": [
@@ -60,7 +34,6 @@
           "name": "J0R0N",
           "avatar": "accounts/J0R0N/avatar.png",
           "telegram_username": "J0R0N",
-          "telegram_user_id": "5758012030",
           "version": "0.0",
           "file": "catalog/Игры/Minecraft/J0R0N/Minecraft_Pocket_Edition_1.0.9.1.apk"
         },
@@ -68,7 +41,6 @@
           "name": "John Doe",
           "avatar": "accounts/John Doe/avatar.png",
           "telegram_username": "john_doe",
-          "telegram_user_id": "",
           "version": "1.0",
           "file": "catalog/Игры/Minecraft/John Doe/Minecraft_Pocket_Edition_1.0.9.1.apk"
         }

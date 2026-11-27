@@ -37,24 +37,6 @@ def is_screenshot(path):
 
 categories = []
 apps = []
-suppliers = []
-
-# Load public supplier profile metadata from accounts/*.json.
-ACCOUNTS = ROOT / "accounts"
-if ACCOUNTS.exists():
-    for account_path in sorted(ACCOUNTS.glob("*.json")):
-        try:
-            meta = json.loads(account_path.read_text(encoding="utf-8-sig"))
-        except (OSError, json.JSONDecodeError):
-            continue
-        suppliers.append({
-            "folder": account_path.stem,
-            "display_name": meta.get("display_name", account_path.stem),
-            "telegram_username": meta.get("telegram_username", ""),
-            "telegram_user_id": str(meta.get("telegram_user_id", "")),
-            "avatar": meta.get("avatar", ""),
-            "version": meta.get("version", "")
-        })
 
 if CAT.exists():
     for category_dir in sorted(p for p in CAT.iterdir() if p.is_dir()):
@@ -75,7 +57,6 @@ if CAT.exists():
                         "name": meta.get("display_name", vendor_dir.name),
                         "avatar": meta.get("avatar", ""),
                         "telegram_username": meta.get("telegram_username", ""),
-                        "telegram_user_id": str(meta.get("telegram_user_id", "")),
                         "version": meta.get("version", ""),
                         "file": rel(apk)
                     })
@@ -99,8 +80,8 @@ if CAT.exists():
 
 (ROOT / "data").mkdir(exist_ok=True)
 (ROOT / "data" / "catalog.json").write_text(
-    json.dumps({"version": 3, "categories": categories, "suppliers": suppliers, "apps": apps},
+    json.dumps({"version": 2, "categories": categories, "apps": apps},
                ensure_ascii=False, indent=2),
     encoding="utf-8"
 )
-print(f"Готово: {len(categories)} категорий, {len(apps)} приложений, {len(suppliers)} поставщиков")
+print(f"Готово: {len(categories)} категорий, {len(apps)} приложений")
